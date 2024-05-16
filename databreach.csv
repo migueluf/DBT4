@@ -1,507 +1,507 @@
 Event_ID,ticker,gvkey,fiscal_month,cusip,name,fiscal_year,event_year,event_date,confound_dum,confound_type,breach_size,breach_type,event_state,hq_state,dif3,dif7
-1,AMR,1388,12,23771009,AMR Corporation,2010,2010,04/06/2010,0,none,79000,PORT,Texas,Texas,,
-2,CPS,65156,12,"1,70E+08",ChoicePoint,2005,2005,15/02/2005,0,none,163000,INSD,Georgia,Georgia,,
-3,BAC,7647,12,60505104,Bank of America Corp.,2005,2005,24/02/2005,0,none,1200000,PORT,North Carolina,North Carolina,,
-4,IRM,62374,12,46284V101,"Time Warner, Iron Mountain Inc.",2005,2005,02/05/2005,0,none,600000,PORT,New York,New York,,
-5,KODK,4194,12,"2,77E+08",Eastman Kodak,2005,2005,22/06/2005,0,none,5800,PORT,New York,New York,,
-6,BAC,7647,12,60505104,Bank of America,2005,2005,29/06/2005,0,none,18000,PORT,North Carolina,North Carolina,,
-7,CYN,3082,12,"1,79E+08","City National Bank, Iron Mountain",2005,2005,06/07/2005,0,none,,PORT,California,California,,
-8,BAC,7647,12,60505104,Bank of America,2005,2005,23/09/2005,0,none,,PORT,North Carolina,North Carolina,,
-9,BA,2285,12,97023105,Boeing,2005,2005,18/11/2005,0,none,161000,PORT,Illinois,Illinois,,
-10,AMP,164708,12,03076C106,Ameriprise Financial Inc.,2005,2005,25/12/2005,0,none,226000,PORT,Minnesota,Minnesota,,
-11,HRB,2269,4,93671105,H&R Block,2005,2006,02/01/2006,0,none,,DISC,Missouri,Missouri,,
-12,PBCT,16245,12,"7,13E+08",People's Bank,2006,2006,11/01/2006,0,none,90000,PORT,Connecticut,Connecticut,,
-13,NYT,7866,12,"6,50E+08",Boston Globe (The New York Times Company),2006,2006,31/01/2006,0,none,240000,DISC,Massachusetts,New York,,
-14,C,3243,12,"1,73E+08",Citibank,2010,2010,14/10/2010,0,none,,INSD,Kentucky,New York,,
-15,VZ,2136,12,92343V104,Verizon Communications,2006,2006,08/03/2006,0,none,,PORT,New York,New York,,
-16,ATV,177340,12,4854105,ACORN,2009,2009,24/11/2009,0,none,,DISC,California,California,,
-17,BA,2285,12,97023105,Boeing,2006,2006,21/04/2006,0,none,3600,PORT,Washington,Illinois,,
-18,MTB,4699,12,55261F104,M &T Bank via contractor PFPC,2006,2006,17/05/2006,0,none,,PORT,New York,New York,,
-19,AIG,1487,12,26874784,American International Group (AIG),2006,2006,14/06/2006,0,none,930000,STAT,New York,New York,,
-20,ADP,1891,6,53015103,Automatic Data Processing (ADP),2006,2006,17/06/2006,0,none,80,DISC,New Jersey,New Jersey,,
-21,C,3243,12,"1,73E+08",Citigroup,2010,2010,24/02/2010,0,none,600000,DISC,New York,New York,,
-22,ADP,1891,6,53015103,Automatic Data Processing (ADP),2006,2006,06/07/2006,0,none,,UNKN,New Jersey,New Jersey,,
-23,CVC,12485,12,12686C109,"Cablevision Systems Corp., ACS, FedEx",2006,2006,25/07/2006,0,none,13700,PORT,New York,New York,,
-24,CVX,2991,12,"1,67E+08",Chevron,2006,2006,16/08/2006,0,none,,PORT,California,California,,
-25,AFL,1449,12,1055102,AFLAC  American Family Life Assurance Co.,2006,2006,22/08/2006,0,none,612,PORT,South Carolina,Georgia,,
-26,HLYW,28600,12,"4,36E+08",Hollywood Video,2010,2010,09/04/2010,0,none,,PHYS,Nevada,Nevada,,
-27,T,9899,12,00206R102,AT&T,2006,2006,29/08/2006,0,none,19000,HACK,California,Texas,,
-28,WFC,8007,12,"9,50E+08",Wells Fargo,2006,2006,01/09/2006,0,none,,PORT,California,California,,
-29,JPM,2968,12,46625H100,JP Morgan Chase & Co.,2006,2006,07/09/2006,0,none,2600000,PORT,Delaware,Virginia,,
-30,TYO,,12,,Nikon Inc.,2006,2006,14/09/2006,0,none,3235,DISC,New York,Tokyo,,
-31,PNC,8245,12,"6,93E+08",PNC Financial Services Group Inc.,2010,2010,18/03/2010,0,none,,CARD,Ohio,Pennsylvania,,
-32,GE,5047,12,"3,70E+08",General Electric (GE),2006,2006,25/09/2006,0,none,50000,PORT,Connecticut,New York,,
-33,SBUX,25434,12,"8,55E+08",Starbucks Corp.,2006,2006,03/11/2006,0,none,60080,PORT,Washington,Washington,,
-34,ARCO,186785,12,G0457F107,Four ARCO gas stations,2006,2006,09/11/2006,0,none,440,CARD,California,California,,
-35,AMTD,64552,9,87236Y108,TD Ameritrade,2006,2006,01/12/2006,0,none,300,PORT,Nebraska,Nebraska,,
-36,BAC,7647,12,60505104,Bank of America,2006,2006,14/12/2006,0,none,,INSD,North Carolina,North Carolina,,
-37,KEY,9783,12,"4,93E+08",KeyCorp,2006,2006,30/12/2006,0,none,9300,PORT,Ohio,Ohio,,
-38,JPM,2968,12,46625H100,Chase Bank,2007,2007,26/01/2007,0,none,4100,PHYS,Louisiana,New York,,
-39,SCHW,13988,12,"8,09E+08",Charles Schwab,2010,2010,09/04/2010,0,none,,HACK,New York,California,,
-40,TYO,,12,,Dai Nippon,2007,2007,12/03/2007,0,none,,INSD,,Tokyo,,
-41,BAC,7647,12,60505104,Bank of America,2007,2007,12/04/2007,0,none,,PORT,North Carolina,North Carolina,,
-42,JPM,2968,12,46625H100,JP Morgan,2007,2007,01/05/2007,0,none,,PHYS,New York,New York,,
-43,IBM,6066,12,"4,59E+08",IBM,2007,2007,15/05/2007,0,none,2226,PORT,New York,New York,,
-44,JPM,2968,12,46625H100,JP Morgan Chase,2010,2010,12/06/2010,0,none,12,INSD,New Jersey,New York,,
-45,HRB,2269,4,93671105,H&R Block,2009,2010,08/04/2010,0,none,20,INSD,New York,Missouri,,
-46,PFE,8530,12,"7,17E+08",Pfizer,2007,2007,11/06/2007,0,none,17000,DISC,New York,New York,,
-47,BAC,7647,12,60505104,Bank of America,2010,2010,07/04/2010,0,none,,INSD,North Carolina,North Carolina,,
-48,AAL,1045,12,02376R102,American Airlines,2007,2007,20/06/2007,0,none,365,DISC,Texas,Texas,,
-49,IBTX,17451,12,45384B106,Texas First Bank,2007,2007,22/06/2007,0,none,4000,PORT,Texas,Texas,,
-50,DIS,3980,9,"2,55E+08",Disney Movie Club,2007,2007,11/07/2007,0,none,,INSD,Wisconsin,California,,
-51,SAIC,18683,1,"8,09E+08",Science Applications International Corp. (SAIC),2006,2007,20/07/2007,0,none,867000,DISC,California,Virginia,,
-52,EOAN,100590,12,"2,69E+08",E.On,2007,2007,02/08/2007,0,none,,PORT,Kentucky,Germany,,
-53,WFC,8007,12,"9,50E+08",Wachovia,2010,2010,24/03/2010,0,none,,CARD,Washington,California,,
-54,MER,113852,12,59017R107,Merrill Lynch,2007,2007,07/08/2007,0,none,33000,UNKN,New Jersey,North Carolina,,
-55,PFE,8530,12,"7,17E+08",Pfizer,2007,2007,13/08/2007,0,none,950,PORT,New York,New York,,
-56,TD,15706,10,"8,91E+08",TD Bank,2010,2010,13/03/2010,0,none,,INSD,New Jersey,New Jersey,,
-57,T,9899,12,00206R102,AT&T,2007,2007,30/08/2007,0,none,,PORT,Texas,Texas,,
-58,PFE,8530,12,"7,17E+08",Pfizer,2007,2007,04/09/2007,0,none,34000,INSD,New York,New York,,
-59,ARW,1773,12,42735100,Arrow Electronics,2010,2010,08/03/2010,0,none,4044,PORT,New York,New York,,
-60,C,3243,12,"1,73E+08",Citigroup,2007,2007,21/09/2007,0,none,5208,DISC,Illinois,New York,,
-61,GPS,4990,1,"3,65E+08",Gap Inc.,2006,2007,28/09/2007,0,none,800000,PORT,California,California,,
-62,T,9899,12,00206R102,AT&T,2010,2010,27/02/2010,0,none,,INSD,Illinois,Texas,,
-63,STI,10187,12,"8,68E+08",SunTrust Bank,2010,2010,22/02/2010,0,none,200,CARD,Georgia,Georgia,,
-64,BLIAQ,3491,12,93676104,Blockbuster,2007,2007,23/10/2007,0,none,,PHYS,Florida,Texas,,
-65,HIG,61739,12,"4,17E+08",Hartford Financial Services Group,2007,2007,29/10/2007,0,none,230000,PORT,Connecticut,Connecticut,,
-66,METR,16784,12,"2,01E+08",Commerce Bancorp,2007,2007,13/11/2007,0,none,,INSD,Pennsylvania,Pennsylvania,,
-67,BBRG,185194,12,10567B109,Brio Tuscan Grille in Country Club Plaza,2010,2010,22/01/2010,0,none,20,CARD,Missouri,Ohio,,
-68,JPM,2968,12,46625H100,CHASE,2010,2010,19/01/2010,0,none,,DISC,Kentucky,New York,,
-69,FORR,64061,12,"3,47E+08",Forrester Research,2007,2007,05/12/2007,0,none,,PORT,Massachusetts,Massachusetts,,
-70,SHLD,6307,1,"8,12E+08",Sears,2007,2008,07/01/2008,0,none,,DISC,Illinois,Illinois,,
-71,GE,5047,12,"3,70E+08",GE Money,2008,2008,17/01/2008,0,none,150000,PORT,Massachusetts,New York,,
-72,TRU,24638,12,89400J107,TransUnion,2008,2008,29/01/2008,0,none,400,INSD,Pennsylvania,Illinois,,
-73,BK,2019,12,64058100,Bank of New York Mellon,2008,2008,26/03/2008,0,none,12500000,PORT,Pennsylvania,New York,,
-74,PFE,8530,12,"7,17E+08",Pfizer Inc,2008,2008,07/04/2008,0,none,800,PORT,New York,New York,,
-75,SDS,12144,12,"8,67E+08",SunGard,2008,2008,17/04/2008,0,none,,PORT,0,Pennsylvania,,
-76,SAIC,18683,1,"8,09E+08",SAIC,2007,2008,06/03/2008,0,none,4690,PORT,Maryland,Virginia,,
-77,PFE,8530,12,"7,17E+08",Pfizer,2008,2008,12/05/2008,0,none,13000,PORT,New York,New York,,
-78,BBT,11856,12,54937107,BB&T Insurance,2008,2008,15/05/2008,0,none,,PORT,Virginia,North Carolina,,
-79,DPZ,160211,12,25754A201,Domino's Pizza,2008,2008,18/06/2008,0,none,,PHYS,Arizona,Michigan,,
-80,C,3243,12,"1,73E+08",Citibank,2008,2008,19/06/2008,0,none,,HACK,New York,New York,,
-81,FB,170617,12,30303M102,Facebook,2008,2008,17/07/2008,0,none,80000000,DISC,California,California,,
-82,WFC,8007,12,"9,50E+08",Wells Fargo,2008,2008,12/08/2008,0,none,5000,HACK,Minnesota,California,,
-83,MCD,7154,12,"5,80E+08",Liberty McDonald's Restaurant,2008,2008,22/08/2008,0,none,,INSD,Kentucky,Illinois,,
-84,BAC,7647,12,60505104,Bank of America,2010,2010,08/06/2010,0,none,,INSD,Florida,North Carolina,,
-85,AAPL,1690,12,37833100,Apple Inc.,2010,2010,09/06/2010,0,none,120000,HACK,California,California,,
-86,CAKE,25737,12,"1,63E+08",Cheesecake Factory,2010,2010,24/05/2010,0,none,,INSD,District Of Columbia,California,,
-87,PFG,145701,12,74251V102,Principal Financial Group,2010,2010,14/05/2010,0,none,,HACK,Iowa,Iowa,,
-88,LUX,20196,12,55068R202,Luxottica Group,2008,2008,26/11/2008,0,none,59419,HACK,Ohio,Milan,,
-89,HPQ,5606,10,40434L105,Hewlett-Packard,2008,2008,11/12/2008,0,none,1000,PORT,Texas,California,,
-90,WFC,8007,12,"9,50E+08",Wachovia Bank,2010,2010,23/08/2010,0,none,,INSD,Georgia,California,,
-91,BAC2,7267,12,59098Z002,Merrill Lynch,2009,2009,02/01/2009,0,none,,STAT,New York,North Carolina,,
-92,MWW,64156,12,"6,12E+08",Monster.com,2009,2009,23/01/2009,0,none,,HACK,Massachusetts,Massachusetts,,
-93,QTM,8867,3,"7,48E+08",Quantum Corporation,2009,2010,17/06/2010,0,none,,PORT,Washington,California,,
-94,T,9899,12,00206R102,AT&T,2010,2010,10/06/2010,0,none,,DISC,Florida,Texas,,
-95,GOOG,160329,12,02079K305,Google,2009,2009,07/03/2009,0,none,,DISC,California,California,,
-96,S,10984,12,85207U105,Sprint,2009,2009,11/03/2009,0,none,,INSD,Kansas,Kansas,,
-97,CMCSA,3226,12,20030N101,Comcast,2009,2009,16/03/2009,0,none,4000,DISC,Pennsylvania,Pennsylvania,,
-98,TM5,17874,12,"8,73E+08",T-Mobile USA,2009,2009,07/07/2009,0,none,,HACK,Washington,Washington,,
-99,BLKB,260893,12,09227Q100,Blackbaud Inc.,2009,2009,17/06/2009,0,none,84000,PORT,South Carolina,South Carolina,,
-100,BR,176928,6,11133T103,"Broadridge Financial Solutions, Inc.",2009,2009,22/06/2009,0,none,,DISC,New Jersey,New York,,
-101,T,9899,12,00206R102,AT&T,2009,2009,08/07/2009,0,none,2100,INSD,Illinois,Texas,,
-102,WMB,11506,12,"9,69E+08",Williams Cos. Inc.,2009,2009,01/08/2009,0,none,4400,PORT,Oklahoma,Oklahoma,,
-103,BAC,7647,12,60505104,Bank of America Corp.,2009,2009,11/08/2009,0,none,,CARD,North Carolina,North Carolina,,
-104,C,3243,12,"1,73E+08",Citigroup Inc.,2009,2009,11/08/2009,0,none,,CARD,New York,New York,,
-105,AXP,1447,12,25816109,American Express,2009,2009,14/08/2009,0,none,,INSD,New York,New York,,
-106,CPS,65156,12,"1,70E+08",ChoicePoint,2009,2009,19/10/2009,0,none,14023,DISC,Georgia,Georgia,,
-107,CSCO,20779,12,17275R102,Cisco Live 2010,2010,2010,08/07/2010,0,none,,HACK,Nevada,California,,
-108,C,3243,12,"1,73E+08",Citigroup Inc.,2010,2010,27/07/2010,0,none,117600,DISC,New York,New York,,
-109,MMC,7065,12,"5,72E+08",Marsh and Mercer,2010,2010,12/07/2010,0,none,378000,PORT,District Of Columbia,New York,,
-110,GM,5073,12,37045V100,General Motors,2010,2010,16/04/2010,0,none,,DISC,Michigan,Michigan,,
-111,ROST,9248,1,"7,78E+08",Ross,2009,2010,05/08/2010,0,none,200,PHYS,Texas,California,,
-112,HNT,29710,12,42222G108,Health Net,2010,2010,16/04/2010,0,none,18,UNKN,California,California,,
-113,GPS,4990,1,"3,65E+08",Gap Inc.,2009,2010,16/04/2010,0,none,18,INSD,Ohio,California,,
-114,USB,4723,12,"9,03E+08",US Bank,2010,2010,28/09/2010,0,none,,CARD,Wisconsin,Minnesota,,
-115,ING,15617,12,"4,57E+08",ING,2010,2010,12/10/2010,0,none,,DISC,Delaware,Minnesota,,
-116,CVS,7241,12,"1,27E+08",CVS,2005,2005,21/06/2005,0,none,,DISC,Rhode Island,Rhode Island,,
-117,VZ,2136,12,92343V104,Verizon,2005,2005,12/08/2005,0,none,,DISC,New York,New York,,
-118,BLIAQ,3491,12,93676104,Blockbuster,2005,2005,08/10/2005,0,none,,PHYS,New York,Texas,,
-119,MUSA,18498,12,"6,27E+08",Murphy USA,2010,2010,06/11/2010,0,none,,PHYS,Indiana,Arkansas,,
-120,VOW3,,12,,Sunrise Volkswagen,2005,2005,21/12/2005,0,none,,PHYS,New York,Virginia,,
-121,AT,1318,12,20039103,Alltel Corporation,2006,2006,20/02/2006,0,none,,PHYS,Arkansas,Arkansas,,
-122,FITB,4640,12,"3,17E+08",Fifth Third Bank,2006,2006,13/04/2006,0,none,1000,INSD,Indiana,Ohio,,
-123,BSC,11818,11,73902108,Bear Stearns & Company Inc.,2006,2006,20/04/2006,0,none,,DISC,New York,New York,,
-124,BAC,7647,12,60505104,Countrywide Home Loans,2006,2006,02/05/2006,0,none,90,INSD,Texas,North Carolina,,
-125,BAC,7647,12,60505104,Merrill Lynch,2006,2006,11/05/2006,0,none,10500,PORT,New York,North Carolina,,
-126,GE,5047,12,"3,70E+08",GE Money Bank,2006,2006,16/05/2006,0,none,150,PORT,Pennsylvania,New York,,
-127,CFR,3643,12,"2,30E+08",Frost Bank,2006,2006,19/05/2006,0,none,9300,HACK,Texas,Texas,,
-128,WKL,101361,12,"9,78E+08",Wolters Kluwer,2006,2006,24/07/2006,0,none,8500,PORT,California,Illinois,,
-129,RBS,15634,12,"7,80E+08",RBS National Bank,2006,2006,05/07/2006,0,none,1221,PORT,Connecticut,Connecticut,,
-130,VZ,2136,12,92343V104,Verizon Wireless,2006,2006,25/08/2006,0,none,5210,DISC,New Jersey,New York,,
-131,WFC,8007,12,"9,50E+08",Wells Fargo,2006,2006,29/08/2006,0,none,,PORT,Tennessee,California,,
-132,RO,25648,12,"7,71E+08",Hoffman-La Roche Inc,2006,2006,09/08/2006,0,none,26000,PORT,District Of Columbia,Indiana,,
-133,CPRT,29901,12,"2,17E+08","Copart, Inc.",2006,2006,28/08/2006,0,none,43764,HACK,California,Texas,,
-134,SRCE,15199,12,"3,37E+08",1st Source Bank,2010,2010,19/11/2010,0,none,,UNKN,Indiana,Indiana,,
-135,LFGRQ,24503,12,"5,15E+08","LandAmerica Credit Services, Inc.",2006,2006,01/09/2006,0,none,124,HACK,California,Virginia,,
-136,COF,30990,12,14040H105,North Fork Bank,2006,2006,23/09/2006,0,none,3570,HACK,New York,Virginia,,
-137,C,3243,12,"1,73E+08",Citigroup,2006,2006,02/10/2006,0,none,11,PORT,Illinois,New York,,
-138,GCO,5109,1,"3,72E+08",Genesco Inc.,2009,2010,10/12/2010,0,none,,HACK,Tennessee,Tennessee,,
-139,HD,5680,1,"4,37E+08",Home Depot,2009,2010,14/12/2010,0,none,,INSD,Florida,Georgia,,
-140,SHLD,6307,1,"8,12E+08",Sears Holding Corporation,2005,2006,12/10/2006,0,none,,PORT,Florida,Illinois,,
-141,KEY,9783,12,"4,93E+08",KeyCorp,2006,2006,18/11/2006,0,none,17,DISC,Ohio,Ohio,,
-142,EXPE,126296,6,30212P303,Expedia Corporate Travel (now Egencia),2006,2006,15/11/2006,0,none,47,INSD,Washington,Washington,,
-143,S,10984,12,85207U105,Sprint Nextel,2006,2006,19/12/2006,0,none,255,PORT,New Jersey,Kansas,,
-144,BC,2444,12,"1,17E+08",Brunswick Corp.,2007,2007,16/02/2007,0,none,5100,HACK,Illinois,Illinois,,
-145,MCD,7154,12,"5,80E+08","McDonald's,",2010,2010,13/12/2010,0,none,,HACK,Georgia,Illinois,,
-146,HD,5680,1,"4,37E+08",Home Depot,2006,2007,30/04/2007,0,none,5563,PORT,Georgia,Georgia,,
-147,HON,1300,12,"4,39E+08",Honeywell International,2007,2007,19/04/2007,0,none,,PORT,New Jersey,New Jersey,,
-148,EZPW,24430,12,"3,02E+08",EZCORP,2007,2007,08/05/2007,0,none,,PHYS,Texas,Texas,,
-149,HPQ,5606,10,40434L105,Hewlett-Packard,2007,2007,17/08/2007,0,none,1425,PORT,Georgia,California,,
-150,C,3243,12,"1,73E+08",Citigroup,2007,2007,09/08/2007,0,none,519,PORT,Connecticut,New York,,
-151,CELG,13599,12,"1,51E+08",Celgene Corporation,2007,2007,20/08/2007,0,none,1951,PORT,New Jersey,New Jersey,,
-152,KRFT,12978,12,50076Q106,Kraft Foods,2007,2007,05/09/2007,0,none,1446,PORT,Illinois,Illinois,,
-153,HIG,61739,12,"4,17E+08",Hartford Life Insurance Company,2007,2007,12/09/2007,0,none,526,HACK,Connecticut,Connecticut,,
-154,LDG,6802,1,"5,43E+08",Longs Drug Stores California Inc.,2006,2007,23/10/2007,0,none,,PORT,California,Rhode Island,,
-155,VA,21261,12,92769R108,Virgin Mobile,2007,2007,25/10/2007,0,none,,DISC,California,California,,
-156,ORCL,12142,5,68389X105,Oracle Corporation,2006,2007,11/11/2007,0,none,132,STAT,Georgia,California,,
-157,CFR,3643,12,"2,30E+08",Frost Bank,2007,2007,07/11/2007,0,none,500,UNKN,Texas,Texas,,
-158,JPM,2968,12,46625H100,Chase Bank,2011,2011,20/01/2011,0,none,100,CARD,California,New York,,
-159,PHIA,8546,12,"5,00E+08",Philips Electronics,2008,2008,25/01/2008,0,none,91,PORT,New Jersey,Massachusetts,,
-160,C,3243,12,"1,73E+08",Citibank,2008,2008,25/01/2008,0,none,1279,CARD,Texas,New York,,
-161,KBR,174310,12,48242W106,"KBR, Inc.",2011,2011,26/01/2011,0,none,,PORT,Texas,Texas,,
-162,JPM,2968,12,46625H100,JP Morgan Chase,2011,2011,30/01/2011,0,none,,UNKN,New York,New York,,
-163,MAR,28930,12,"5,72E+08",Marriott Vacation Club International,2010,2011,07/02/2011,0,none,,PHYS,Florida,Washington,,
-164,BAC,7647,12,60505104,Bank of America,2011,2011,13/02/2011,0,none,,DISC,North Carolina,North Carolina,,
-165,FGP,13962,12,"3,15E+08",FirstGroup America,2011,2011,11/02/2011,0,none,,PORT,Ohio,Ohio,,
-166,LTEC,61212,12,"5,46E+08","Loud Technologies, Inc.",2011,2011,19/02/2011,0,none,,STAT,Washington,Washington,,
-167,AAL,1045,12,02376R102,American Airlines,2011,2011,17/02/2011,0,none,350,INSD,California,Texas,,
-168,RDS,12384,12,"7,80E+08",Shell,2011,2011,09/03/2011,0,none,3600,CARD,California,Texas,,
-169,TD,15706,10,"8,91E+08",TD Bank,2011,2011,10/03/2011,0,none,10,INSD,New Jersey,New Jersey,,
-170,RAND,,12,,Randstad Professionals,2011,2011,18/03/2011,0,none,,DISC,Massachusetts,Massachusetts,,
-171,TRIP,199356,12,"8,97E+08",TripAdvisor,2011,2011,24/03/2011,0,none,,HACK,Massachusetts,Massachusetts,,
-172,BP,2410,12,55622104,BP Global,2011,2011,29/03/2011,0,none,13000,PORT,Louisiana,Texas,,
-173,AAPL,1690,12,37833100,iTunes (Apple),2011,2011,01/04/2011,0,none,,HACK,California,California,,
-174,AAL,1045,12,02376R102,US Airways,2011,2011,06/04/2011,0,none,,INSD,Arizona,Arizona,,
-175,PNC,8245,12,"6,93E+08",PNC Automated Teller Machines,2011,2011,13/04/2011,0,none,211,CARD,Pennsylvania,Pennsylvania,,
-176,SNE,9818,12,"8,36E+08",Sony,2011,2011,26/04/2011,0,none,"1,02E+08",HACK,New York,New York,,
-177,MDAS,179027,12,"5,84E+08",Medassets Inc.,2011,2011,19/09/2011,0,none,82265,PORT,Georgia,Georgia,,
-178,EDS,5074,12,"2,86E+08",Electronic Data Systems,2011,2011,24/09/2011,0,none,250,INSD,Alabama,Texas,,
-179,C,3243,12,"1,73E+08","Citigroup, Inc.",2011,2011,18/08/2011,0,none,,UNKN,New York,New York,,
-180,MCD,7154,12,"5,80E+08",McDonald's,2011,2011,09/08/2011,0,none,185,INSD,Virginia,Illinois,,
-181,JPM,2968,12,46625H100,Chase Bank,2011,2011,30/07/2011,0,none,950,CARD,California,New York,,
-182,LNC,6742,12,"5,34E+08",Lincoln National Life Insurance Company,2011,2011,26/07/2011,0,none,705,DISC,New York,Pennsylvania,,
-183,EL,61567,6,"5,18E+08",Esteí© Lauder,2011,2011,26/07/2011,0,none,,PORT,New York,New York,,
-184,TOSYY,10622,12,"8,91E+08",Toshiba,2011,2011,12/07/2011,0,none,7971,HACK,California,California,,
-185,MS,12124,11,"6,17E+08",Morgan Stanley,2011,2011,05/07/2011,0,none,34000,PORT,New York,New York,,
-186,LMT,6774,12,"5,40E+08",Lockheed Martin,2011,2011,27/05/2011,0,none,,HACK,Maryland,Maryland,,
-187,SGAMY,9584,12,"8,16E+08",Sega,2011,2011,18/06/2011,0,none,1290000,HACK,UK,California,,
-188,SNE,9818,12,"8,36E+08",Sony Pictures,2011,2011,06/06/2011,0,none,1000000,HACK,New York,New York,,
-189,C,3243,12,"1,73E+08",Citibank,2011,2011,09/06/2011,0,none,360000,HACK,New York,New York,,
-190,BAC,7647,12,60505104,Bank of America,2011,2011,25/05/2011,0,none,300,INSD,New York,North Carolina,,
-191,STI,10187,12,"8,68E+08",SunTrust Bank,2011,2011,16/05/2011,0,none,,INSD,Illinois,Georgia,,
-192,NFLX,147579,12,64110L106,Netflix,2011,2011,04/05/2011,0,none,,INSD,California,California,,
-193,ANTM,145046,12,36752103,Anthem Blue Cross,2011,2011,13/05/2011,0,none,31125,DISC,California,California,,
-194,RF,4674,12,7591EP100,Regions Bank,2011,2011,17/05/2011,0,none,149,INSD,Tennessee,Alabama,,
-195,BBY,2184,2,86516101,Best Buy,2010,2011,06/05/2011,0,none,,HACK,California,Minnesota,,
-196,MCD,7154,12,"5,80E+08",McDonald's,2011,2011,05/11/2011,0,none,,INSD,Illinois,Illinois,,
-197,MCD,7154,12,"5,80E+08",McDonald's,2011,2011,18/11/2011,0,none,16,INSD,Washington,Illinois,,
-198,MCD,7154,12,"5,80E+08",McDonald's,2011,2011,16/11/2011,0,none,100,INSD,Michigan,Illinois,,
-199,T,9899,12,00206R102,AT&T,2011,2011,21/11/2011,0,none,,HACK,Texas,Texas,,
-200,PEG,8810,12,"7,45E+08",PSEG,2011,2011,20/10/2011,0,none,,PORT,New Jersey,New Jersey,,
-201,WFC,8007,12,"9,50E+08",Wells Fargo,2011,2011,20/10/2011,0,none,,DISC,Florida,California,,
-202,RAD,9155,2,"7,68E+08",RIte Aid Corporation,2011,2012,12/01/2012,0,none,2900,PHYS,Pennsylvania,Pennsylvania,,
-203,AXP,1447,12,25816109,"American Express Travel Related Services Company, Inc. (AXP)",2012,2012,13/07/2012,0,none,27257,CARD,California,New York,,
-204,SPLS,15521,1,"8,55E+08",Staples (Staples Business Depot),2011,2012,02/02/2012,0,none,50,INSD,New York,Massachusetts,,
-205,WIN,174490,12,97382A200,Windstream,2012,2012,27/01/2012,0,none,,INSD,North Carolina,Arkansas,,
-206,AAN,1076,12,2535300,Aaron's,2011,2011,02/11/2011,0,none,1008,STAT,California,Georgia,,
-207,BGK,,12,,Burger King,2012,2012,25/02/2012,0,none,30,INSD,Oregon,Florida,,
-208,HRB,2269,4,93671105,H&R Block,2011,2012,23/03/2012,0,none,,INSD,California,Missouri,,
-209,UA,165052,12,"9,04E+08",Under Armour Inc.,2012,2012,20/04/2012,0,none,,PORT,Maryland,Washington,,
-210,CHH,65615,12,"1,70E+08",Choice Hotels Internationals,2012,2012,26/04/2012,0,none,,DISC,Maryland,Maryland,,
-211,RAX,179925,12,"7,50E+08","Rackspace, Incorporating Services, Ltd.",2012,2012,02/05/2012,0,none,,HACK,Delaware,Texas,,
-212,F,4839,12,"3,45E+08",Ford-Motor,2012,2012,05/05/2012,0,none,,HACK,Michigan,Michigan,,
-213,KEY,9783,12,"4,93E+08",Key Bank,2012,2012,09/05/2012,0,none,2937,INSD,Oregon,Ohio,,
-214,COF,30990,12,14040H105,Capital One Bank,2012,2012,09/05/2012,0,none,,INSD,Texas,Virginia,,
-215,CMCSA,3226,12,20030N101,Comcast,2012,2012,20/05/2012,0,none,294,HACK,Pennsylvania,Pennsylvania,,
-216,LNKD,186342,12,53578A108,LinkedIn.com,2012,2012,29/05/2012,0,none,"1,67E+08",HACK,California,California,,
-217,HD,5680,1,"4,37E+08",The Home Depot,2011,2012,13/04/2012,0,none,36,INSD,Georgia,Georgia,,
-218,MCD,7154,12,"5,80E+08",McDonald's,2012,2012,28/04/2012,0,none,,INSD,Illinois,Illinois,,
-219,GRPN,187363,12,"3,99E+08",Groupon,2012,2012,02/07/2012,0,none,170,DISC,Illinois,Illinois,,
-220,YHOO,62634,12,"9,84E+08",Yahoo! Voices,2012,2012,12/07/2012,0,none,453492,HACK,California,California,,
-221,NVD,117768,1,67066G104,Nvidia,2011,2012,13/07/2012,0,none,400000,HACK,California,California,,
-222,C,3243,12,"1,73E+08",Citibank,2012,2012,13/03/2012,0,none,,HACK,New York,New York,,
-223,YAMCY,,12,,Yamaha Commercial Audio Systems,2012,2012,20/02/2012,0,none,1755,HACK,Ohio,California,,
-224,CUBE,160990,12,"2,30E+08","Patriot Self Storage (CubeSmart Management, LLC)",2012,2012,03/02/2012,0,none,,PHYS,Massachusetts,Pennsylvania,,
-225,AAPL,1690,12,37833100,Apple,2012,2012,04/09/2012,0,none,1000000,HACK,California,California,,
-226,TD,15706,10,"8,91E+08",TD Bank,2012,2012,08/10/2012,0,none,260000,PORT,New Jersey,New Jersey,,
-227,TM5,17874,12,"8,73E+08",T-Mobile,2012,2012,16/01/2012,0,none,44,HACK,Washington,Washington,,
-228,BKS,28924,12,67774109,Barnes & Noble,2012,2012,23/10/2012,0,none,,CARD,New York,New York,,
-229,ADBE,12540,11,00724F101,Adobe,2012,2012,14/11/2012,0,none,230,HACK,California,California,,
-230,FEIC,31881,12,30241L109,FEI Company,2012,2012,12/10/2012,0,none,,PORT,Oregon,Oregon,,
-231,PF,185334,12,72348P104,"Pinnacle Foods Group, LLC",2012,2012,26/11/2012,0,none,1818,PORT,Wisconsin,New Jersey,,
-232,NYT,7866,12,"6,50E+08",The New York Times,2013,2013,30/01/2013,0,none,,HACK,New York,New York,,
-233,MCD,7154,12,"5,80E+08",McDonald's,2013,2013,07/02/2013,0,none,,INSD,Georgia,Illinois,,
-234,WAG,11264,8,"9,31E+08",Walgreens,2013,2013,15/02/2013,0,none,,INSD,Kentucky,Illinois,,
-235,ESRX,25356,12,30219G108,Express Scripts,2013,2013,18/02/2013,0,none,,DISC,Missouri,Missouri,,
-236,JPM,2968,12,46625H100,J.P. Morgan Chase,2013,2013,12/02/2013,0,none,6000,CARD,New York,New York,,
-237,HIS,162906,11,"4,52E+08","Information Handling Services, Inc. (IHS)",2013,2013,27/02/2013,0,none,8500,HACK,Colorado,Colorado,,
-238,TD,15706,10,"8,91E+08","TD Bank, N.A.",2013,2013,04/03/2013,0,none,,PORT,New Jersey,New Jersey,,
-239,PRU,143356,12,"7,44E+08","The Prudential Insurance Company of America, Unisys",2013,2013,04/03/2013,0,none,,DISC,New Jersey,New Jersey,,
-240,SWK,10016,12,"8,55E+08","Stanley Black & Decker, Inc.",2013,2013,11/03/2013,0,none,,PORT,Connecticut,Connecticut,,
-241,FB,170617,12,30303M102,Facebook,2013,2013,15/02/2013,0,none,,HACK,California,California,,
-242,MSFT,12141,6,"5,95E+08",Microsoft,2013,2013,22/02/2013,0,none,,HACK,Washington,New Mexico,,
-243,AAPL,1690,12,37833100,Apple,2013,2013,19/02/2013,0,none,,HACK,California,California,,
-244,AMD,1161,12,7903107,"Advanced Micro Devices (AMD), Nvidia",2013,2013,13/01/2013,0,none,,INSD,California,California,,
-245,INTC,6008,12,"4,58E+08",Intel,2012,2012,09/04/2012,0,none,,INSD,Massachusetts,California,,
-246,CHH,65615,12,"1,70E+08",Comfort Inn and Suites,2013,2013,22/03/2013,0,none,,INSD,Missouri,Maryland,,
-247,FINL,25357,12,"3,18E+08","The Finish Line, Inc.",2013,2013,26/03/2013,0,none,,PORT,Indiana,Indiana,,
-248,ROL,9225,12,"7,76E+08","Rollins, Inc.",2013,2013,27/03/2013,0,none,,DISC,Georgia,Georgia,,
-249,C,3243,12,"1,73E+08",Citi,2013,2013,28/03/2013,0,none,,DISC,Texas,New York,,
-250,AXP,1447,12,25816109,American Express,2013,2013,01/04/2013,0,none,,HACK,Texas,New York,,
-251,CSC,3336,3,"2,05E+08",Computer Sciences Corporation,2012,2013,03/04/2013,0,none,,PORT,North Carolina,Virginia,,
-252,AXP,1447,12,25816109,American Express,2013,2013,29/03/2013,0,none,,HACK,New York,New York,,
-253,JPM,2968,12,46625H100,JPMorgan Chase,2013,2013,28/03/2013,0,none,,HACK,New York,New York,,
-254,SHLD,6307,1,"8,12E+08",Sears,2012,2013,22/04/2013,0,none,788,PORT,Arkansas,Illinois,,
-255,M,4611,1,55616P104,Macy's,2012,2013,23/04/2013,0,none,,DISC,Indiana,New York,,
-256,IBE,,12,,Iberdola USA,2013,2013,16/04/2013,0,none,5100,HACK,Maine,Maine,,
-257,GS,114628,11,38141G104,Goldman Sachs,2013,2013,12/05/2013,0,none,,DISC,New York,New York,,
-258,ADBE,12540,11,00724F101,Adobe,2013,2013,09/05/2013,0,none,160000,HACK,Washington,California,,
-259,SCOR,177780,12,20564W105,comScore,2013,2013,12/06/2013,0,none,,DISC,Virginia,Virginia,,
-260,FB,170617,12,30303M102,Facebook,2013,2013,21/06/2013,0,none,6000000,DISC,California,California,,
-261,C,3243,12,"1,73E+08",Citi Prepaid Services,2013,2013,27/06/2013,0,none,,DISC,New York,New York,,
-262,AAPL,1690,12,37833100,Apple Inc.,2013,2013,21/07/2013,0,none,,HACK,California,California,,
-263,NDAQ,149337,12,"6,31E+08",NASDAQ.com,2013,2013,18/07/2013,0,none,,HACK,New York,New York,,
-264,NDAQ,149337,12,"6,31E+08",NASDAQ OMX Group Inc.,2013,2013,25/07/2013,0,none,,INSD,New York,New York,,
-265,C,3243,12,"1,73E+08",Citigroup,2013,2013,17/07/2013,0,none,146000,DISC,New York,New York,,
-266,WMT,11259,1,"9,31E+08",Wal-Mart,2012,2013,29/07/2013,0,none,,CARD,Oklahoma,Arkansas,,
-267,EXEL,133885,12,30161Q104,Exelixis,2013,2013,16/08/2013,0,none,,PORT,California,California,,
-268,NOC,7985,12,"6,67E+08",Northrop Grunman,2013,2013,09/08/2013,0,none,70000,HACK,Georgia,Virginia,,
-269,NYT,7866,12,"6,50E+08",The New York Times,2013,2013,27/08/2013,0,none,,HACK,New York,New York,,
-270,GPS,4990,1,"3,65E+08",Gap,2012,2013,16/07/2013,0,none,20,DISC,California,California,,
-271,GOOG,160329,12,02079K305,Google Chrome,2013,2013,11/10/2013,0,none,,DISC,California,California,,
-272,ADBE,12540,11,00724F101,Adobe,2013,2013,03/10/2013,0,none,2900000,HACK,California,California,,
-273,DENN,19398,12,24869P104,Denny's,2013,2013,30/09/2013,0,none,200,PHYS,Arizona,California,,
-274,JPM,2968,12,46625H100,JP Morgan Chase,2013,2013,01/10/2013,0,none,,DISC,New York,New York,,
-275,CCI,113490,12,22822V101,Crown Castle International Corp,2013,2013,25/11/2013,0,none,,HACK,Pennsylvania,Texas,,
-276,FB,170617,12,30303M102,Facebook,2013,2013,04/12/2013,0,none,2000000,HACK,California,California,,
-277,JPM,2968,12,46625H100,JPMorgan Chase,2013,2013,05/12/2013,0,none,465000,HACK,New York,New York,,
-278,BGS,158743,12,05508R106,"B&G Foods North America, Inc.",2013,2013,06/12/2013,0,none,,HACK,Vermont,Vermont,,
-279,DFS,177376,11,"2,55E+08",Discover Financial Services,2013,2013,11/11/2013,0,none,,UNKN,Illinois,Illinois,,
-280,TGT,3813,1,8.76E+110,Target Corp.,2012,2013,13/12/2013,0,none,40000000,HACK,Minnesota,Minnesota,,
-281,DFS,177376,11,"2,55E+08",Discover Financial Services,2013,2013,20/12/2013,0,none,,UNKN,Illinois,Illinois,,
-282,AXP,1447,12,25816109,American Express Company,2013,2013,29/12/2013,0,none,,UNKN,New York,New York,,
-283,KO,3144,12,"1,91E+08",Coca-Cola Company,2014,2014,24/01/2014,0,none,,PORT,Georgia,Georgia,,
-284,AAPL,1690,12,37833100,Apple,2014,2014,26/02/2014,0,none,,HACK,California,California,,
-285,SHLD,6307,1,"8,12E+08",Sears,2013,2014,28/02/2014,0,none,,HACK,Illinois,Illinois,,
-286,SBH,175900,9,7.95E+108,Sally Beauty Supply,2014,2014,05/03/2014,0,none,25000,HACK,Texas,Texas,,
-287,SJM,9777,4,"8,33E+08",Smucker's,2013,2014,04/03/2014,0,none,,HACK,Ohio,Ohio,,
-288,COF,30990,12,14040H105,Capital One,2014,2014,04/03/2014,0,none,,INSD,Utah,Virginia,,
-289,ALSK,126555,12,01167P101,Alaska Communications,2014,2014,20/02/2014,0,none,,HACK,Alaska,Alaska,,
-290,AXP,1447,12,25816109,American Express Company,2014,2014,07/04/2014,0,none,,CARD,New York,New York,,
-291,NCOG,,12,,NCO Financial Systems Inc.,2014,2014,22/04/2014,0,none,,DISC,Pennsylvania,Pennsylvania,,
-292,LOW,6829,1,"5,49E+08",Lowe's,2013,2014,19/05/2014,0,none,,DISC,North Carolina,North Carolina,,
-293,EBAY,114524,12,"2,79E+08",Ebay,2014,2014,21/05/2014,0,none,"1,45E+08",HACK,California,California,,
-294,AN,9063,12,05329W102,AutoNation Toyota of South Austin,2014,2014,26/05/2014,0,none,,HACK,Texas,California,,
-295,LOW,6829,1,"5,49E+08",Lowes Corporation,2013,2014,22/05/2014,0,none,35000,DISC,North Carolina,North Carolina,,
-296,T,9899,12,00206R102,"AT&T Mobility, LLC",2014,2014,10/06/2014,0,none,,INSD,Missouri,Texas,,
-297,HNFSB,28730,5,41078W100,Hanover Foods Corporation,2013,2014,21/05/2014,0,none,5867,DISC,Pennsylvania,Pennsylvania,,
-298,GS,114628,11,38141G104,Goldman Sachs,2014,2014,02/07/2014,0,none,,DISC,New York,New York,,
-299,BA,2285,12,97023105,Boeing,2014,2014,11/07/2014,0,none,,HACK,Washington,Illinois,,
-300,LMT,6774,12,"5,40E+08",Lockheed Martin,2014,2014,11/07/2014,0,none,,HACK,Texas,Maryland,,
-301,ACM,147988,9,00766T100,Aecom,2014,2014,08/07/2014,0,none,,HACK,California,California,,
-302,BAC,7647,12,60505104,Bank of America,2014,2014,17/07/2014,0,none,,DISC,Maryland,North Carolina,,
-303,RAD,9155,2,"7,68E+08",Rite Aid Pharmacy,2013,2014,30/07/2014,0,none,521,PHYS,Washington,Pennsylvania,,
-304,ABS,25645,12,13091103,Albertsons/AB Acquisitions LLC,2014,2014,15/08/2014,0,none,,HACK,Idaho,Idaho,,
-305,SVU,10190,2,"8,69E+08",Supervalue,2013,2014,14/08/2014,0,none,,HACK,Minnesota,Minnesota,,
-306,JPM,2968,12,46625H100,J.P Morgan Chase,2014,2014,27/08/2014,0,none,76000000,HACK,New York,New York,,
-307,AAPL,1690,12,37833100,Apple,2014,2014,01/09/2014,0,none,,HACK,California,California,,
-308,HD,5680,1,"4,37E+08",The Home Depot,2013,2014,02/09/2014,0,none,56000000,HACK,Georgia,Georgia,,
-309,ABS,25645,12,13091103,Albertson's LLC,2014,2014,29/09/2014,0,none,,HACK,Washington,Idaho,,
-310,T,9899,12,00206R102,AT&T,2014,2014,06/10/2014,0,none,1600,INSD,Texas,Texas,,
-311,SHLD,6307,1,"8,12E+08",Sears,2013,2014,10/10/2014,0,none,,HACK,Illinois,Illinois,,
-312,SPLS,15521,1,"8,55E+08",Staples Inc.,2013,2014,20/10/2014,0,none,1200000,HACK,Massachusetts,Massachusetts,,
-313,FNF,165264,12,31620R303,Fidelity National Financial,2014,2014,03/11/2014,0,none,,HACK,Florida,Florida,,
-314,SNE,9818,12,"8,36E+08",Sony Pictures,2014,2014,24/11/2014,0,none,47000,HACK,New York,New York,,
-315,EME,6223,12,29084Q100,Emcor Services Mesa Energy Systems,2014,2014,11/12/2014,0,none,,PORT,California,California,,
-316,MSFT,12141,6,"5,95E+08",Microsoft xBox,2014,2014,26/12/2014,0,none,,HACK,Washington,Washington,,
-317,MS,12124,11,"6,17E+08",Morgan Stanley,2015,2015,05/01/2015,0,none,350000,INSD,New York,New York,,
-318,M04,,12,,Mandarin Oriental Hotel Group,2015,2015,04/03/2015,0,none,,HACK,New York,New York,,
-319,WMT,11259,1,"9,31E+08","Wal-Mart, Sam's Club",2009,2010,07/06/2010,1,M&A,117,HACK,Arkansas,Arkansas,,
-320,SAIC,18683,1,"8,09E+08",Science Applications International Corp. (SAIC),2004,2005,12/02/2005,1,Investigation,45000,STAT,California,Virginia,,
-321,DSW,24171,12,23334L102,"DSW Shoe Warehouse, Retail Ventures",2005,2005,08/03/2005,1,Statement,1400000,HACK,Ohio,Ohio,,
-322,RL,64891,3,"7,51E+08","Polo Ralph Lauren, HSBC",2004,2005,15/04/2005,1,Investigation,180000,HACK,New York,New York,,
-323,AMTD,64552,9,87236Y108,TD Ameritrade,2005,2005,20/04/2005,1,Earnings,200000,PORT,Nebraska,Nebraska,,
-324,MSI,7585,12,"6,20E+08",Motorola,2005,2005,30/05/2005,1,M&A,,STAT,Illinois,Illinois,,
-325,C,3243,12,"1,73E+08","Citigroup, UPS",2005,2005,06/06/2005,1,M&A,3900000,PORT,New York,New York,,
-326,JPM,2968,12,46625H100,JP Morgan Chase & Co.,2005,2005,30/08/2005,1,M&A,,PORT,Texas,New York,,
-327,COF,30990,12,14040H105,North Fork Bank (now Capital One Bank),2005,2005,17/09/2005,1,M&A,9000,PORT,New York,Virginia,,
-328,YGRO,6019,12,"2,34E+08",RBC Dain Rauscher,2005,2005,28/09/2005,1,Investigation,300000,INSD,Minnesota,Toronto,,
-329,WMT,11259,1,"9,31E+08","Sam's Club, a division of Wal-Mart Stores, Inc",2004,2005,12/12/2005,1,Investigation,,UNKN,Arkansas,Arkansas,,
-330,GUID,176255,12,"4,02E+08","Guidance Software, Inc.",2005,2005,20/12/2005,1,Other,3800,HACK,California,California,,
-331,F,4839,12,"3,45E+08",Ford Motor Co.,2005,2005,22/12/2005,1,Earnings,70000,STAT,Michigan,Michigan,,
-332,FDX,4598,5,31428X106,FedEx,2005,2006,04/02/2006,1,Earnings,1100,DISC,California,Tennessee,,
-333,HON,1300,12,"4,39E+08",Honeywell International,2006,2006,31/01/2006,1,Earnings,19000,UNKN,New Jersey,New Jersey,,
-334,GM,5073,12,37045V100,General Motors (GM),2006,2006,14/03/2006,1,Other,100,INSD,Michigan,Michigan,,
-335,ED,3413,12,"2,09E+08",Con Edison,2006,2006,01/04/2006,1,M&A,15000,PORT,New York,New York,,
-336,AH,23667,12,"5,00E+08","Ahold USA, parent company of Stop & Shop, Giant stores and Tops stores via  subcontractor Electronic Data Systems (EDS)",2006,2006,02/06/2006,1,Earnings,92000,PORT,Maryland,Amsterdam,,
-337,UNP,10867,12,"9,08E+08",Union Pacific,2006,2006,16/06/2006,1,Earnings,30000,PORT,Nebraska,Nebraska,,
-338,ING,15617,12,"4,57E+08","ING U.S. Financial Services, Jackson Health System",2006,2006,18/06/2006,1,Investigation,13000,PORT,Florida,Amsterdam,,
-339,EFX,4423,12,"2,94E+08",Equifax,2006,2006,20/06/2006,1,Investigation,2500,PORT,Georgia,Georgia,,
-340,ALL,63735,12,02099X006,AllState Insurance Huntsville branch,2006,2006,29/06/2006,1,Investigation,27000,STAT,Alabama,Illinois,,
-341,NNI,155738,12,64031N108,"Nelnet Inc., UPS",2006,2006,18/07/2006,1,Earnings,188000,PORT,Nebraska,Nebraska,,
-342,AWI,175689,12,04247X102,"Armstrong World Industries, Deloitte & Touche",2006,2006,25/07/2006,1,M&A,12000,PORT,Pennsylvania,Pennsylvania,,
-343,EFX,4423,12,"2,94E+08",Equifax,2010,2010,11/02/2010,1,Earnings,35,DISC,Georgia,Georgia,,
-344,DLTR,31587,12,"2,57E+08",Dollar Tree,2006,2006,01/08/2006,1,Earnings,,HACK,California,Virginia,,
-345,TM,19661,12,"8,92E+08",Toyota,2006,2006,04/08/2006,1,Investigation,1500,PORT,Texas,California,,
-346,AOL,183920,12,00184X105,American Online (AOL),2006,2006,06/08/2006,1,Other,650000,DISC,New York,New York,,
-347,D,4029,12,25746U109,Dominion Resources,2006,2006,25/08/2006,1,Earnings,,PORT,Virginia,Virginia,,
-348,DBD,3946,12,"2,54E+08","Diebold, Inc., GE Capital",2006,2006,31/08/2006,1,Investigation,,PORT,Ohio,Ohio,,
-349,HRB,2269,4,93671105,H&R Block,2009,2010,23/03/2010,1,Earnings,60,INSD,Illinois,Missouri,,
-350,MOVI,30559,12,"6,25E+08",Movie Gallery US,2006,2006,25/09/2006,1,Investigation,3800,PHYS,North Carolina,Oregon,,
-351,TMUS,17874,12,"8,73E+08",T-Mobile USA Inc.,2006,2006,14/10/2006,1,Other,43000,PORT,Washington,Washington,,
-352,HRH,14466,12,"4,31E+08","Hilb, Rogal & Hobbs, Villanova University",2006,2006,02/11/2006,1,Earnings,1243,PORT,Pennsylvania,Virginia,,
-353,HTZ,5600,12,42805T105,"Hertz Global Holdings, Inc.",2006,2006,11/11/2006,1,IPO,,INSD,Oklahoma,Florida,,
-354,WCC,120444,12,95082P105,Wesco,2006,2006,03/11/2006,1,Other,,CARD,Michigan,Pennsylvania,,
-355,T,9899,12,00206R102,AT&T/Ferrell Communication,2010,2010,25/05/2010,1,M&A,,DISC,Florida,Texas,,
-356,BMO,15580,10,63671101,BMO Harris Bank,2012,2012,30/08/2012,1,Earnings,,PORT,Wisconsin,Toronto,,
-357,HRB,2269,4,93671105,H&R Block,2004,2005,22/12/2005,1,Statement,,DISC,Missouri,Missouri,,
-358,BA,2285,12,97023105,Boeing,2006,2006,13/12/2006,1,Investigation,382000,PORT,Washington,Illinois,,
-359,MGI,5342,12,60935Y208,MoneyGram International,2007,2007,12/01/2007,1,Earnings,79000,HACK,Minnesota,Texas,,
-360,TJX,11672,1,"8,73E+08","TJ stores (TJX), including TJMaxx, Marshalls, Winners, HomeSense, AJWright,  KMaxx, and possibly Bob's Stores in U.S. & Puerto Rico -- Winners and HomeGoods stores in Canada -- and possibly TKMaxx stores in UK and Ireland",2006,2007,17/01/2007,1,Earnings,"1,00E+08",HACK,Massachusetts,Massachusetts,,
-361,KBH,12689,12,48666K109,KB Home,2007,2007,18/01/2007,1,Earnings,2700,STAT,South Carolina,Michigan,,
-362,PJC,8605,12,"7,24E+08",Piper Jaffrey,2007,2007,08/02/2007,1,Other,1000,DISC,Minnesota,Minnesota,,
-363,AMCC,65904,3,03822W406,Applied Micro Circuits Corporation,2010,2011,04/04/2011,1,Earnings,,PORT,California,California,,
-364,SAIC,18683,1,"8,09E+08",Science Applications International Corp. (SAIC),2006,2007,19/03/2007,1,Earnings,,PHYS,Idaho,Idaho,,
-365,RSHCQ,,12,,RadioShack,2007,2007,29/03/2007,1,Earnings,,PHYS,Texas,Texas,,
-366,GOOG,160329,12,02079K305,Google Ads,2007,2007,27/04/2007,1,Earnings,,HACK,California,California,,
-367,CAT,2817,12,"1,49E+08","Caterpillar, Inc., SBA Inc.",2007,2007,27/04/2007,1,Earnings,,PORT,Illinois,Illinois,,
-368,ALU,101352,12,13904305,Alcatel-Lucent,2007,2007,18/03/2007,1,Other,,PORT,New Jersey,France,,
-369,FNFV,165264,12,31620R303,Fidelity National Information Services/Certegy Check Services Inc.,2007,2007,03/07/2007,1,M&A,8500000,INSD,Florida,Florida,,
-370,LRCX,6565,6,"5,13E+08",Lam Research Corp.,2010,2010,14/04/2010,1,Earnings,,PORT,California,California,,
-371,PRU,143356,12,"7,44E+08",Prudential Financial Inc.,2006,2006,06/02/2006,1,Earnings,1000,DISC,New Jersey,New Jersey,,
-372,WU,175263,12,"9,60E+08",Western Union,2007,2007,17/07/2007,1,Investigation,20000,HACK,Colorado,Colorado,,
-373,NFLX,147579,12,64110L106,Netflix,2010,2010,01/01/2010,1,Earnings,"1,00E+08",UNKN,California,California,,
-374,VRSN,66368,12,9.23E+106,Verisign,2007,2007,06/08/2007,1,Earnings,,PORT,California,Virginia,,
-375,EDS,5074,12,"2,86E+08",Electronic Data Systems,2007,2007,07/08/2007,1,Earnings,498,INSD,Alabama,Texas,,
-376,MWW,64156,12,"6,12E+08",Monster.com,2007,2007,23/08/2007,1,Other,146000,HACK,Massachusetts,Massachusetts,,
-377,AMTD,64552,9,87236Y108,TD Ameritrade Holding Corp.,2007,2007,14/09/2007,1,M&A,6300000,HACK,Nebraska,Nebraska,,
-378,SMTC,9599,1,"8,17E+08",Semtech,2006,2007,08/10/2007,1,Investigation,,PORT,California,California,,
-379,HD,5680,1,"4,37E+08",Home Depot,2006,2007,17/10/2007,1,Other,10000,PORT,Massachusetts,Georgia,,
-380,LNC,6742,12,"5,34E+08",Lincoln National Corporation (Lincoln Financial),2010,2010,14/01/2010,1,Other,1200000,INSD,Pennsylvania,Pennsylvania,,
-381,LXK,61552,12,"5,30E+08",Lexmark International,2008,2008,15/02/2008,1,Other,,DISC,Kentucky,Kentucky,,
-382,KRFT,12978,12,50076Q106,Kraft Foods,2008,2008,03/03/2008,1,Earnings,20000,PORT,Illinois,Illinois,,
-383,A,126554,10,00846U101,Agilent Technologies,2008,2008,22/03/2008,1,Earnings,51000,PORT,California,California,,
-384,AAP,145977,12,00751Y106,Advance Auto Parts,2008,2008,31/03/2008,1,Earnings,56000,HACK,Virginia,Virginia,,
-385,HOG,12389,12,"4,13E+08","Harley-Davidson, Inc. (HOG)",2008,2008,04/04/2008,1,Investigation,60000,PORT,Wisconsin,Wisconsin,,
-386,WLP,27766,12,94973H108,WellPoint,2008,2008,08/04/2008,1,M&A,128000,DISC,Indiana,Indiana,,
-387,PBCT,16245,12,"7,13E+08",People's United Bank,2008,2008,09/04/2008,1,Other,,PHYS,Connecticut,Connecticut,,
-388,BC,2444,12,"1,17E+08",Brunswick Corp.,2008,2008,21/04/2008,1,Other,700,STAT,Illinois,Illinois,,
-389,NUAN,61685,12,67020Y100,Nuance Communications Inc.,2010,2010,13/03/2010,1,M&A,1191,PORT,Massachusetts,Massachusetts,,
-390,STT,10035,12,"8,57E+08","State Street Corp, Investors Financial Services",2008,2008,29/05/2008,1,M&A,45500,STAT,Massachusetts,Massachusetts,,
-391,T,9899,12,00206R102,AT&T,2008,2008,22/05/2008,1,Other,,PORT,Texas,Texas,,
-392,SRCE,15199,12,"3,37E+08",1st Source Bank,2008,2008,10/06/2008,1,Investigation,,HACK,Indiana,Indiana,,
-393,DRIV,113362,12,25388B104,Digital River Inc.,2010,2010,04/06/2010,1,Other,200000,HACK,Minnesota,Minnesota,,
-394,AET,1177,12,00817Y108,Aetna,2010,2010,28/05/2010,1,Earnings,6372,PHYS,Connecticut,Connecticut,,
-395,BMY,2403,12,"1,10E+08",Bristol-Myers Squibb,2008,2008,17/07/2008,1,Earnings,42000,PORT,Florida,New York,,
-396,CHTR,126136,12,16117M305,Charter Communications,2008,2008,13/08/2008,1,Earnings,9000,PORT,South Carolina,Missouri,,
-397,WFC,8007,12,"9,50E+08",Wachovia Bank,2008,2008,29/08/2008,1,Investigation,,CARD,Florida,California,,
-398,ESRX,25356,12,30219G108,Express Scripts,2008,2008,06/11/2008,1,Earnings,700000,UNKN,Missouri,Missouri,,
-399,SBUX,25434,12,"8,55E+08",Starbucks Corp.,2008,2008,24/11/2008,1,Earnings,97000,PORT,Washington,Washington,,
-400,LNC,6742,12,"5,34E+08",Lincoln Financial Group,2010,2010,25/05/2010,1,Other,1286,DISC,Pennsylvania,Pennsylvania,,
-401,PHM,8823,12,"7,46E+08",Pulte Homes Las Vegas Division,2008,2008,25/12/2008,1,Earnings,16000,PHYS,Nevada,Nevada,,
-402,WFC,8007,12,"9,50E+08",Wells Fargo,2010,2010,25/05/2010,1,Other,1023,INSD,California,California,,
-403,INOD,28717,12,"4,58E+08","Innodata Isogen, Inc.",2009,2009,13/01/2009,1,Earnings,,PORT,New Jersey,New Jersey,,
-404,OXY,8068,12,"6,75E+08",Occidental Petroleum Corporation,2009,2009,14/01/2009,1,Earnings,,INSD,Texas,Texas,,
-405,HPY,161040,12,42235N108,Heartland Payment Systems,2009,2009,20/01/2009,1,Earnings,"1,30E+08",HACK,New Jersey,New Jersey,,
-406,SYMC,15855,12,"8,72E+08",Symantec,2009,2009,31/03/2009,1,Earnings,200,INSD,California,California,,
-407,AV,15545,12,05382A104,Aviva,2009,2009,03/06/2009,1,M&A,550,HACK,New Hampshire,London,,
-408,AMR,1388,12,23771009,AMR Corporation,2010,2010,02/07/2010,1,Earnings,79000,STAT,Texas,Texas,,
-409,NTY,7798,9,46299A001,NBTY,2010,2010,15/07/2010,1,M&A,,DISC,New York,New York,,
-410,LNC,6742,12,"5,34E+08",Lincoln National Life Insurance,2010,2010,21/07/2010,1,Other,26840,DISC,Pennsylvania,Pennsylvania,,
-411,RAD,9155,2,"7,68E+08",Rite Aid Corporation,2009,2010,27/07/2010,1,Other,,PHYS,Pennsylvania,Pennsylvania,,
-412,HUM,27914,12,"4,45E+08","Humana Inc, Matrix Imaging",2010,2010,18/08/2010,1,Earnings,2631,PHYS,Kentucky,Kentucky,,
-413,HSB,137135,12,40427H509,HSBC Bank Nevada,2010,2010,09/08/2010,1,Investigation,14,UNKN,New York,New York,,
-414,JLL,65108,12,48020Q107,Jones Lang LaSalle,2010,2010,09/08/2010,1,M&A,20,PORT,Illinois,Illinois,,
-415,S,10984,12,85207U105,Sprint,2010,2010,02/09/2010,1,Other,,INSD,Kansas,Kansas,,
-416,CAKE,25737,12,"1,63E+08",Cheesecake Factory,2010,2010,11/09/2010,1,Earnings,,INSD,New York,California,,
-417,CAKE,25737,12,"1,63E+08","Cheesecake Factory, PGA Tour Grill, Outback Steakhouse",2010,2010,29/09/2010,1,Earnings,,INSD,District Of Columbia,California,,
-418,JPM,2968,12,46625H100,JP Morgan Chase Bank,2010,2010,14/09/2010,1,Earnings,,CARD,New York,New York,,
-419,SEAC,63938,1,"8,12E+08",SeaChange International,2009,2010,08/09/2010,1,Earnings,1,INSD,Massachusetts,Massachusetts,,
-420,RY,15633,10,"7,80E+08",RBC Bank,2010,2010,14/10/2010,1,Other,,INSD,Florida,Florida,,
-421,MAR,28930,12,"5,72E+08",Marriott International Inc.,2005,2005,28/12/2005,1,M&A,206000,PORT,Florida,Maryland,,
-422,FHN,4737,12,"3,21E+08",First Horizon Home Loans,2006,2006,06/03/2006,1,Earnings,8,STAT,Oregon,Tennessee,,
-423,AFL,1449,12,1055102,Aflac,2006,2006,19/04/2006,1,Earnings,,PORT,Georgia,Georgia,,
-424,SHLD,6307,1,"8,12E+08","Sears, Roebuck, Company Contractor Compliance",2005,2006,28/04/2006,1,Earnings,196,DISC,Florida,Illinois,,
-425,ARMK,186858,9,03852U106,ARAMARK Corporation,2006,2006,06/06/2006,1,M&A,6028,PORT,Georgia,Pennsylvania,,
-426,GPI,65718,12,"3,99E+08","Group 1 Automotive Inc, Weinstein Spira & Company, P.C.",2006,2006,19/07/2006,1,Other,14000,PORT,Texas,Texas,,
-427,BEN,4885,9,"3,55E+08",Franklin Templeton Investments,2006,2006,03/08/2006,1,Earnings,9,PORT,California,California,,
-428,DIS,3980,9,"2,55E+08","Disney Worldwide Services, Inc.",2006,2006,05/09/2006,1,Earnings,23,PORT,California,California,,
-429,WAG,11264,8,"9,31E+08",Walgreens,2010,2010,10/12/2010,1,Other,,HACK,Illinois,Illinois,,
-430,BA,2285,12,97023105,"Boeing, Co",2006,2006,15/11/2006,1,Earnings,762,PORT,Illinois,Illinois,,
-431,IR,5959,12,G47791101,Ingersoll Rand,2006,2006,06/11/2006,1,Earnings,1510,PORT,New Jersey,New York,,
-432,XRX,11636,12,"9,84E+08",Xerox,2007,2007,23/01/2007,1,Investigation,297,PORT,Oregon,Connecticut,,
-433,S,10984,12,85207U105,Sprint Nextel,2007,2007,22/01/2007,1,Earnings,1608,PORT,North Carolina,Kansas,,
-434,PSA,10096,12,74460D109,Public Storage Inc.,2007,2007,29/01/2007,1,Earnings,,HACK,California,California,,
-435,GE,5047,12,"3,70E+08",General Electric,2007,2007,09/02/2007,1,M&A,80,PORT,Kentucky,New York,,
-436,HSIC,61494,12,"8,06E+08","Henry Schein, Financial Services, Inc., ChoiceHealth Leasing",2007,2007,16/03/2007,1,Earnings,340,PORT,Illinois,New York,,
-437,SDS,12144,12,"8,67E+08",Sungard,2007,2007,20/03/2007,1,Earnings,3560,PORT,Pennsylvania,Pennsylvania,,
-438,EDS,5074,12,"2,86E+08",Electronic Data Systems Corp. (EDS),2007,2007,19/03/2007,1,M&A,30,PORT,California,Texas,,
-439,WM,14477,12,94106L109,Waste Management Inc.,2007,2007,03/04/2007,1,Earnings,400,PORT,Texas,Texas,,
-440,HD,5680,1,"4,37E+08",Home Depot,2006,2007,24/05/2007,1,Earnings,204,PORT,Georgia,Georgia,,
-441,TXT,10519,12,"8,83E+08",Textron,2007,2007,31/07/2007,1,Earnings,500,PORT,Rhode Island,Rhode Island,,
-442,FNFV,165264,12,31620R303,"Fidelity National Information Services, Fidelity National Financial",2007,2007,24/09/2007,1,M&A,111,PORT,Florida,Florida,,
-443,HMC,5691,12,"4,38E+08",American Honda Motor Company,2010,2010,27/12/2010,1,Earnings,4900000,HACK,California,California,,
-444,WMT,11259,1,"9,31E+08",Wal-Mart Stores Inc.,2006,2007,28/09/2007,1,Earnings,48686,INSD,Arkansas,Arkansas,,
-445,BLIAQ,3491,12,93676104,Blockbuster Inc.,2007,2007,19/10/2007,1,Earnings,,PORT,Florida,Texas,,
-446,BGC,25405,12,"3,69E+08",General Cable Corporation,2007,2007,19/11/2007,1,Earnings,23,DISC,Texas,Kentucky,,
-447,PRU,143356,12,"7,44E+08",Prudential Financial,2007,2007,30/11/2007,1,M&A,44023,INSD,Pennsylvania,New Jersey,,
-448,CHSCP,134464,8,12542R993,"CHS, Inc.",2010,2010,31/12/2010,1,Restatement,,DISC,Minnesota,Minnesota,,
-449,SAIC,18683,1,"8,09E+08",SAIC,2007,2008,18/01/2008,1,M&A,,HACK,Virginia,Virginia,,
-450,AMZN,64768,12,23135106,Amazon.com,2011,2011,29/01/2011,1,Earnings,,DISC,Washington,Washington,,
-451,JACK,13092,12,"4,66E+08",Jack in the Box,2011,2011,22/02/2011,1,M&A,,INSD,Texas,California,,
-452,CVS,7241,12,"1,27E+08",CVS Caremark Corp.,2011,2011,09/03/2011,1,Earnings,,INSD,Rhode Island,Rhode Island,,
-453,WAG,11264,8,"9,31E+08",Walgreens Co.,2011,2011,11/03/2011,1,M&A,,INSD,Illinois,Illinois,,
-454,HIG,61739,12,"4,17E+08",Hartford Life Insurance Company,2011,2011,06/04/2011,1,Statement,300,HACK,Connecticut,Connecticut,,
-455,ABM,1410,10,957100,ABM Industries,2011,2011,21/04/2011,1,Earnings,91,STAT,Georgia,New York,,
-456,BLIAQ,3491,12,93676104,Blockbuster Inc.,2011,2011,20/04/2011,1,Earnings,,PHYS,California,Texas,,
-457,MCD,7154,12,"5,80E+08",McDonald's,2011,2011,12/09/2011,1,Earnings,,INSD,Minnesota,Illinois,,
-458,FNFV,165264,12,31620R303,"Fidelity National Information Services, Inc. (FIS)",2011,2011,26/08/2011,1,Earnings,22,HACK,Florida,Florida,,
-459,LNC,6742,12,"5,34E+08","Lincoln Financial Group, Lincoln National Life Insurance Company, Lincoln Life and Annuity Company of New York",2011,2011,23/08/2011,1,Earnings,91763,DISC,New York,Pennsylvania,,
-460,WAG,11264,8,"9,31E+08",Walgreens.com,2011,2011,13/07/2011,1,Earnings,,DISC,Illinois,Illinois,,
-461,VLY,11861,12,"9,20E+08",Valley National Bank,2011,2011,27/05/2011,1,Earnings,348,CARD,New York,New Jersey,,
-462,DPZ,160211,12,25754A201,"Domino's Pizza, KB Pizza",2011,2011,12/05/2011,1,Earnings,,PHYS,Indiana,Michigan,,
-463,HBAN,5786,12,"4,46E+08",Huntington National Bank,2011,2011,09/05/2011,1,Other,2000,INSD,Illinois,Ohio,,
-464,ADP,1891,6,53015103,"Automatic Data Processing (ADP), A.W. Hastings'",2011,2011,28/12/2011,1,Earnings,,PORT,California,New Jersey,,
-465,VRSN,66368,12,9.23E+106,VeriSign Inc.,2012,2012,02/02/2012,1,Earnings,,HACK,Virginia,Virginia,,
-466,SYMC,15855,12,"8,72E+08","Symantec, ImageShack",2012,2012,04/11/2012,1,M&A,1000,HACK,California,California,,
-467,MSI,7585,12,"6,20E+08","Motorola Mobility, Inc.",2012,2012,03/02/2012,1,Statement,100,DISC,Illinois,Illinois,,
-468,WMT,11259,1,"9,31E+08",Sam's Club,2010,2011,06/11/2011,1,Earnings,98,INSD,Minnesota,Arkansas,,
-469,KO,3144,12,"1,91E+08",Coca-Cola Company Family Federal Credit Union,2012,2012,22/02/2012,1,Earnings,13800,PORT,Georgia,Georgia,,
-470,CVS,7241,12,"1,27E+08",CVS Caremark,2012,2012,24/03/2012,1,M&A,3482,DISC,Rhode Island,Rhode Island,,
-471,GPN,141913,5,37940X102,Global Payments Inc.,2011,2012,30/03/2012,1,Earnings,7000000,CARD,Georgia,Georgia,,
-472,PCG,8264,12,69331C108,Pacific Gas and Electric (PG&E),2012,2012,07/03/2012,1,Investigation,100,PHYS,California,California,,
-473,MCD,7154,12,"5,80E+08",McDonald's,2012,2012,09/03/2012,1,Earnings,282,INSD,Oklahoma,Illinois,,
-474,SHLD,6307,1,"8,12E+08",Sears Portrait Studio,2011,2012,23/05/2012,1,Earnings,,PHYS,Ohio,Illinois,,
-475,GM,5073,12,37045V100,General Motors Co.,2012,2012,03/08/2012,1,Earnings,883,INSD,Michigan,Michigan,,
-476,FRC,14275,12,33616C100,First Republic Bank,2012,2012,14/08/2012,1,Statement,,PHYS,California,California,,
-477,VLY,11861,12,"9,20E+08","Valley National Bank, American Stock Transfer and Trust Company, LLC",2012,2012,14/02/2012,1,M&A,,DISC,New York,New Jersey,,
-478,INTC,6008,12,"4,58E+08","Intel, Inc.",2012,2012,10/02/2012,1,Investigation,,HACK,California,California,,
-479,LNC,6742,12,"5,34E+08","Lincoln Financial Securities Corporation, Red Boat Advisor Resources",2012,2012,16/09/2012,1,Earnings,4657,HACK,New Hampshire,Pennsylvania,,
-480,RAD,9155,2,"7,68E+08",Rite Aid Corporation,2011,2012,27/09/2012,1,Earnings,,DISC,Pennsylvania,Pennsylvania,,
-481,EFX,4423,12,"2,94E+08",Equifax,2012,2012,10/10/2012,1,Earnings,17000,DISC,Georgia,Georgia,,
-482,WAG,11264,8,"9,31E+08",Walgreens,2012,2012,13/12/2012,1,M&A,,PHYS,California,Illinois,,
-483,TWTR,18872,12,90184L102,Twitter,2013,2013,02/02/2013,1,Investigation,250000,HACK,California,California,,
-484,AAL,1045,12,02376R102,"US Airways, McKesson, City of Houston, Automatic Data Processing (ADP), AlliedBarton Security Services",2013,2013,30/07/2013,1,Earnings,4500,DISC,Arizona,Arizona,,
-485,AAL,1045,12,02376R102,US Airways Group,2013,2013,08/08/2013,1,Earnings,7700,HACK,Arizona,Arizona,,
-486,RSG,112168,12,"7,61E+08",Republic Services,2013,2013,29/08/2013,1,Statement,82160,PORT,Arizona,Arizona,,
-487,MUSA,18498,12,"6,27E+08",Murphy USA,2013,2013,20/09/2013,1,M&A,,CARD,Arkansas,Arkansas,,
-488,WAG,11264,8,"9,31E+08",Walgreens,2013,2013,07/10/2013,1,Earnings,,STAT,California,Illinois,,
-489,AAN,1076,12,2535300,Aaron's,2013,2013,22/10/2013,1,Earnings,,DISC,Georgia,Georgia,,
-490,DNB,4094,12,2.65E+104,Dun & Bradstreet,2013,2013,28/10/2013,1,Earnings,,HACK,Georgia,New Jersey,,
-491,CME,149070,12,12572Q105,"CME Group, CME ClearPort",2013,2013,17/11/2013,1,Investigation,,HACK,Illinois,Illinois,,
-492,WAG,11264,8,"9,31E+08",Walgreens,2013,2013,20/12/2013,1,Earnings,,INSD,Maryland,Illinois,,
-493,TMUS,17874,12,"8,73E+08",T-Mobile Supplier,2013,2013,30/12/2013,1,M&A,,HACK,,Washington,,
-494,HD,5680,1,"4,37E+08",The Home Depot,2013,2014,06/02/2014,1,Other,30000,INSD,Georgia,Georgia,,
-495,DFS,177376,11,"2,55E+08",Discover Financial Services,2014,2014,21/02/2014,1,Statement,,CARD,Utah,Illinois,,
-496,AXP,1447,12,25816109,American Express,2014,2014,25/03/2014,1,Earnings,,HACK,New York,New York,,
-497,WAG,11264,8,"9,31E+08",Walgreens,2014,2014,07/06/2014,1,Earnings,,INSD,Georgia,Illinois,,
-498,D,4029,12,25746U109,Dominion Resources Inc.,2014,2014,21/07/2014,1,Earnings,1700,HACK,Virginia,Virginia,,
-499,CVS,7241,12,"1,27E+08",CVS/Caremark,2014,2014,30/07/2014,1,Earnings,350,DISC,Georgia,Rhode Island,,
-500,MEET,121662,12,"5,85E+08","MeetMe, Inc.",2014,2014,18/08/2014,1,Restatement,,HACK,Pennsylvania,Pennsylvania,,
-501,ANTM,145046,12,36752103,Anthem Blue Cross,2014,2014,10/11/2014,1,Investigation,,DISC,California,California,,
-502,SNE,9818,12,"8,36E+08",Sony PlayStation,2014,2014,26/12/2014,1,Other,,HACK,New York,New York,,
-503,NVDA,117768,1,67066G104,NVIDIA Corporation,2014,2015,06/01/2015,1,Earnings,,HACK,California,California,,
-504,KODK,4194,12,"2,77E+08",Eastman Kodak,2005,2005,22/06/2005,0,none,5800,PORT,New York,New York,,
-505,LFG,24503,12,"5,15E+08","LandAmerica Credit Services, Inc., Diversified Capital",2006,2006,01/09/2006,0,none,124,HACK,California,Virginia,,
-506,SBUX,25434,12,"8,55E+08",Starbucks Corp.,2006,2006,03/11/2006,0,none,60080,PORT,Washington,Washington,,
+1,AMR,1388.0,12,23771009,AMR Corporation,2010,2010,2010-06-04,0,none,79000,PORT,Texas,Texas,,
+2,CPS,65156.0,12,"1,70E+08",ChoicePoint,2005,2005,2005-02-15,0,none,163000,INSD,Georgia,Georgia,,
+3,BAC,7647.0,12,60505104,Bank of America Corp.,2005,2005,2005-02-24,0,none,1200000,PORT,North Carolina,North Carolina,0.4406137363941968,0.42110164906907643
+4,IRM,62374.0,12,46284V101,"Time Warner, Iron Mountain Inc.",2005,2005,2005-05-02,0,none,600000,PORT,New York,New York,0.0726683993539335,0.16752877412155953
+5,KODK,4194.0,12,"2,77E+08",Eastman Kodak,2005,2005,2005-06-22,0,none,5800,PORT,New York,New York,,
+6,BAC,7647.0,12,60505104,Bank of America,2005,2005,2005-06-29,0,none,18000,PORT,North Carolina,North Carolina,0.531240135468104,0.5244578653680968
+7,CYN,3082.0,12,"1,79E+08","City National Bank, Iron Mountain",2005,2005,2005-07-06,0,none,0,PORT,California,California,,
+8,BAC,7647.0,12,60505104,Bank of America,2005,2005,2005-09-23,0,none,0,PORT,North Carolina,North Carolina,0.2602621619605251,0.457337173348233
+9,BA,2285.0,12,97023105,Boeing,2005,2005,2005-11-18,0,none,161000,PORT,Illinois,Illinois,0.2424114837005769,0.9852506647154939
+10,AMP,164708.0,12,03076C106,Ameriprise Financial Inc.,2005,2005,2005-12-25,0,none,226000,PORT,Minnesota,Minnesota,0.4071288020560564,0.2901938631011134
+11,HRB,2269.0,4,93671105,H&R Block,2005,2006,2006-01-02,0,none,0,DISC,Missouri,Missouri,0.0791830041309316,0.17085155835454066
+12,PBCT,16245.0,12,"7,13E+08",People's Bank,2006,2006,2006-01-11,0,none,90000,PORT,Connecticut,Connecticut,,
+13,NYT,7866.0,12,"6,50E+08",Boston Globe (The New York Times Company),2006,2006,2006-01-31,0,none,240000,DISC,Massachusetts,New York,0.2046921756884027,0.19051062032457827
+14,C,3243.0,12,"1,73E+08",Citibank,2010,2010,2010-10-14,0,none,0,INSD,Kentucky,New York,0.9986698036228948,0.7253850086436735
+15,VZ,2136.0,12,92343V104,Verizon Communications,2006,2006,2006-03-08,0,none,0,PORT,New York,New York,0.1087282037586667,0.1324647832262694
+16,ATV,177340.0,12,4854105,ACORN,2009,2009,2009-11-24,0,none,0,DISC,California,California,,
+17,BA,2285.0,12,97023105,Boeing,2006,2006,2006-04-21,0,none,3600,PORT,Washington,Illinois,0.9462150557512462,0.9382118507375538
+18,MTB,4699.0,12,55261F104,M &T Bank via contractor PFPC,2006,2006,2006-05-17,0,none,0,PORT,New York,New York,0.9705040378668924,0.9335350555308689
+19,AIG,1487.0,12,26874784,American International Group (AIG),2006,2006,2006-06-14,0,none,930000,STAT,New York,New York,4.797130571579174,5.593392481706175
+20,ADP,1891.0,6,53015103,Automatic Data Processing (ADP),2006,2006,2006-06-17,0,none,80,DISC,New Jersey,New Jersey,0.1208606089065964,0.12796036860169
+21,C,3243.0,12,"1,73E+08",Citigroup,2010,2010,2010-02-24,0,none,600000,DISC,New York,New York,0.3516928621766632,0.24834152568395015
+22,ADP,1891.0,6,53015103,Automatic Data Processing (ADP),2006,2006,2006-07-06,0,none,0,UNKN,New Jersey,New Jersey,0.3612281946417457,0.3859860196468059
+23,CVC,12485.0,12,12686C109,"Cablevision Systems Corp., ACS, FedEx",2006,2006,2006-07-25,0,none,13700,PORT,New York,New York,,
+24,CVX,2991.0,12,"1,67E+08",Chevron,2006,2006,2006-08-16,0,none,0,PORT,California,California,0.3427038548079609,0.29173707717071334
+25,AFL,1449.0,12,1055102,AFLAC  American Family Life Assurance Co.,2006,2006,2006-08-22,0,none,612,PORT,South Carolina,Georgia,0.0824432916301535,0.13488925753853337
+26,HLYW,28600.0,12,"4,36E+08",Hollywood Video,2010,2010,2010-04-09,0,none,0,PHYS,Nevada,Nevada,,
+27,T,9899.0,12,00206R102,AT&T,2006,2006,2006-08-29,0,none,19000,HACK,California,Texas,0.0264324642525299,0.08501319090026614
+28,WFC,8007.0,12,"9,50E+08",Wells Fargo,2006,2006,2006-09-01,0,none,0,PORT,California,California,0.0443528509433704,0.09281871242938819
+29,JPM,2968.0,12,46625H100,JP Morgan Chase & Co.,2006,2006,2006-09-07,0,none,2600000,PORT,Delaware,Virginia,0.2229262419741438,0.24051835921012912
+30,TYO,,12,,Nikon Inc.,2006,2006,2006-09-14,0,none,3235,DISC,New York,Tokyo,,
+31,PNC,8245.0,12,"6,93E+08",PNC Financial Services Group Inc.,2010,2010,2010-03-18,0,none,0,CARD,Ohio,Pennsylvania,0.7068747678338263,0.6427306180690804
+32,GE,5047.0,12,"3,70E+08",General Electric (GE),2006,2006,2006-09-25,0,none,50000,PORT,Connecticut,New York,1.2943993507846383,1.1910751879637484
+33,SBUX,25434.0,12,"8,55E+08",Starbucks Corp.,2006,2006,2006-11-03,0,none,60080,PORT,Washington,Washington,0.2235595439332162,0.19830510803847992
+34,ARCO,186785.0,12,G0457F107,Four ARCO gas stations,2006,2006,2006-11-09,0,none,440,CARD,California,California,,
+35,AMTD,64552.0,9,87236Y108,TD Ameritrade,2006,2006,2006-12-01,0,none,300,PORT,Nebraska,Nebraska,,
+36,BAC,7647.0,12,60505104,Bank of America,2006,2006,2006-12-14,0,none,0,INSD,North Carolina,North Carolina,0.2184539844129034,0.44810312584525164
+37,KEY,9783.0,12,"4,93E+08",KeyCorp,2006,2006,2006-12-30,0,none,9300,PORT,Ohio,Ohio,0.1661425576110464,0.24224171340446674
+38,JPM,2968.0,12,46625H100,Chase Bank,2007,2007,2007-01-26,0,none,4100,PHYS,Louisiana,New York,0.198321719979177,0.4548871922456606
+39,SCHW,13988.0,12,"8,09E+08",Charles Schwab,2010,2010,2010-04-09,0,none,0,HACK,New York,California,0.0549327859577013,0.18180176698677505
+40,TYO,,12,,Dai Nippon,2007,2007,2007-03-12,0,none,0,INSD,,Tokyo,,
+41,BAC,7647.0,12,60505104,Bank of America,2007,2007,2007-04-12,0,none,0,PORT,North Carolina,North Carolina,0.2340033613608018,0.34964022138938383
+42,JPM,2968.0,12,46625H100,JP Morgan,2007,2007,2007-05-01,0,none,0,PHYS,New York,New York,0.1747554234343725,0.18225543514299017
+43,IBM,6066.0,12,"4,59E+08",IBM,2007,2007,2007-05-15,0,none,2226,PORT,New York,New York,0.2443863754090626,0.7449000778144254
+44,JPM,2968.0,12,46625H100,JP Morgan Chase,2010,2010,2010-06-12,0,none,12,INSD,New Jersey,New York,0.3925289570914754,0.5092043612535709
+45,HRB,2269.0,4,93671105,H&R Block,2009,2010,2010-04-08,0,none,20,INSD,New York,Missouri,0.0794017845145871,0.09261687717165458
+46,PFE,8530.0,12,"7,17E+08",Pfizer,2007,2007,2007-06-11,0,none,17000,DISC,New York,New York,0.0816769031124949,0.21913704789338795
+47,BAC,7647.0,12,60505104,Bank of America,2010,2010,2010-04-07,0,none,0,INSD,North Carolina,North Carolina,0.1724324347625625,0.2556076162774036
+48,AAL,1045.0,12,02376R102,American Airlines,2007,2007,2007-06-20,0,none,365,DISC,Texas,Texas,0.920479596881988,0.7631670342702859
+49,IBTX,17451.0,12,45384B106,Texas First Bank,2007,2007,2007-06-22,0,none,4000,PORT,Texas,Texas,,
+50,DIS,3980.0,9,"2,55E+08",Disney Movie Club,2007,2007,2007-07-11,0,none,0,INSD,Wisconsin,California,0.2062020595583384,0.22752988302455968
+51,SAIC,18683.0,1,"8,09E+08",Science Applications International Corp. (SAIC),2006,2007,2007-07-20,0,none,867000,DISC,California,Virginia,,
+52,EOAN,100590.0,12,"2,69E+08",E.On,2007,2007,2007-08-02,0,none,0,PORT,Kentucky,Germany,,
+53,WFC,8007.0,12,"9,50E+08",Wachovia,2010,2010,2010-03-24,0,none,0,CARD,Washington,California,0.2173216879732578,0.23670542464877908
+54,MER,113852.0,12,59017R107,Merrill Lynch,2007,2007,2007-08-07,0,none,33000,UNKN,New Jersey,North Carolina,,
+55,PFE,8530.0,12,"7,17E+08",Pfizer,2007,2007,2007-08-13,0,none,950,PORT,New York,New York,0.1106089501903577,0.17058419782116235
+56,TD,15706.0,10,"8,91E+08",TD Bank,2010,2010,2010-03-13,0,none,0,INSD,New Jersey,New Jersey,0.3328929077438348,0.6192498618453544
+57,T,9899.0,12,00206R102,AT&T,2007,2007,2007-08-30,0,none,0,PORT,Texas,Texas,0.1229629045751775,0.10407458673519941
+58,PFE,8530.0,12,"7,17E+08",Pfizer,2007,2007,2007-09-04,0,none,34000,INSD,New York,New York,0.1188338309673924,0.15888125519291166
+59,ARW,1773.0,12,42735100,Arrow Electronics,2010,2010,2010-03-08,0,none,4044,PORT,New York,New York,0.2539523247967208,0.20165991821814133
+60,C,3243.0,12,"1,73E+08",Citigroup,2007,2007,2007-09-21,0,none,5208,DISC,Illinois,New York,4.151454924862348,5.772571432825672
+61,GPS,4990.0,1,"3,65E+08",Gap Inc.,2006,2007,2007-09-28,0,none,800000,PORT,California,California,0.1167502827393813,0.15410653567437949
+62,T,9899.0,12,00206R102,AT&T,2010,2010,2010-02-27,0,none,0,INSD,Illinois,Texas,0.0270427230423799,0.02243610924811181
+63,STI,10187.0,12,"8,68E+08",SunTrust Bank,2010,2010,2010-02-22,0,none,200,CARD,Georgia,Georgia,,
+64,BLIAQ,3491.0,12,93676104,Blockbuster,2007,2007,2007-10-23,0,none,0,PHYS,Florida,Texas,0.1556437867862916,0.10315038104880059
+65,HIG,61739.0,12,"4,17E+08",Hartford Financial Services Group,2007,2007,2007-10-29,0,none,230000,PORT,Connecticut,Connecticut,0.8760014660009787,1.5603686563562669
+66,METR,16784.0,12,"2,01E+08",Commerce Bancorp,2007,2007,2007-11-13,0,none,0,INSD,Pennsylvania,Pennsylvania,,
+67,BBRG,185194.0,12,10567B109,Brio Tuscan Grille in Country Club Plaza,2010,2010,2010-01-22,0,none,20,CARD,Missouri,Ohio,,
+68,JPM,2968.0,12,46625H100,CHASE,2010,2010,2010-01-19,0,none,0,DISC,Kentucky,New York,1.1136083050157526,1.4884257899011977
+69,FORR,64061.0,12,"3,47E+08",Forrester Research,2007,2007,2007-12-05,0,none,0,PORT,Massachusetts,Massachusetts,0.7575690729095405,0.6627399519649497
+70,SHLD,6307.0,1,"8,12E+08",Sears,2007,2008,2008-01-07,0,none,0,DISC,Illinois,Illinois,,
+71,GE,5047.0,12,"3,70E+08",GE Money,2008,2008,2008-01-17,0,none,150000,PORT,Massachusetts,New York,2.293048007846937,2.2787636458971976
+72,TRU,24638.0,12,89400J107,TransUnion,2008,2008,2008-01-29,0,none,400,INSD,Pennsylvania,Illinois,,
+73,BK,2019.0,12,64058100,Bank of New York Mellon,2008,2008,2008-03-26,0,none,12500000,PORT,Pennsylvania,New York,0.9087668806604507,1.1055471105209134
+74,PFE,8530.0,12,"7,17E+08",Pfizer Inc,2008,2008,2008-04-07,0,none,800,PORT,New York,New York,0.1401699369526484,0.17031839019013073
+75,SDS,12144.0,12,"8,67E+08",SunGard,2008,2008,2008-04-17,0,none,0,PORT,0,Pennsylvania,133.27899476416243,119.27737329332233
+76,SAIC,18683.0,1,"8,09E+08",SAIC,2007,2008,2008-03-06,0,none,4690,PORT,Maryland,Virginia,,
+77,PFE,8530.0,12,"7,17E+08",Pfizer,2008,2008,2008-05-12,0,none,13000,PORT,New York,New York,0.0575693810030488,0.058845500889233786
+78,BBT,11856.0,12,54937107,BB&T Insurance,2008,2008,2008-05-15,0,none,0,PORT,Virginia,North Carolina,,
+79,DPZ,160211.0,12,25754A201,Domino's Pizza,2008,2008,2008-06-18,0,none,0,PHYS,Arizona,Michigan,0.2311598756816134,0.29025213895347535
+80,C,3243.0,12,"1,73E+08",Citibank,2008,2008,2008-06-19,0,none,0,HACK,New York,New York,4.30561161683369,6.181445903631711
+81,FB,170617.0,12,30303M102,Facebook,2008,2008,2008-07-17,0,none,80000000,DISC,California,California,,
+82,WFC,8007.0,12,"9,50E+08",Wells Fargo,2008,2008,2008-08-12,0,none,5000,HACK,Minnesota,California,0.6351247260839153,0.596599921786867
+83,MCD,7154.0,12,"5,80E+08",Liberty McDonald's Restaurant,2008,2008,2008-08-22,0,none,0,INSD,Kentucky,Illinois,0.3293426793573273,0.3957163652781231
+84,BAC,7647.0,12,60505104,Bank of America,2010,2010,2010-06-08,0,none,0,INSD,Florida,North Carolina,0.2336900011709145,0.260888045992508
+85,AAPL,1690.0,12,37833100,Apple Inc.,2010,2010,2010-06-09,0,none,120000,HACK,California,California,0.1158595902005694,0.1953451713217993
+86,CAKE,25737.0,12,"1,63E+08",Cheesecake Factory,2010,2010,2010-05-24,0,none,0,INSD,District Of Columbia,California,0.0836948107502909,0.5367219253860023
+87,PFG,145701.0,12,74251V102,Principal Financial Group,2010,2010,2010-05-14,0,none,0,HACK,Iowa,Iowa,0.465912675647837,0.871075377378904
+88,LUX,20196.0,12,55068R202,Luxottica Group,2008,2008,2008-11-26,0,none,59419,HACK,Ohio,Milan,,
+89,HPQ,5606.0,10,40434L105,Hewlett-Packard,2008,2008,2008-12-11,0,none,1000,PORT,Texas,California,0.1695761315063186,0.32990070312525105
+90,WFC,8007.0,12,"9,50E+08",Wachovia Bank,2010,2010,2010-08-23,0,none,0,INSD,Georgia,California,0.3338996341337509,0.5516578309685671
+91,BAC2,7267.0,12,59098Z002,Merrill Lynch,2009,2009,2009-01-02,0,none,0,STAT,New York,North Carolina,,
+92,MWW,64156.0,12,"6,12E+08",Monster.com,2009,2009,2009-01-23,0,none,0,HACK,Massachusetts,Massachusetts,,
+93,QTM,8867.0,3,"7,48E+08",Quantum Corporation,2009,2010,2010-06-17,0,none,0,PORT,Washington,California,,
+94,T,9899.0,12,00206R102,AT&T,2010,2010,2010-06-10,0,none,0,DISC,Florida,Texas,0.115665846398391,0.12811187499228716
+95,GOOG,160329.0,12,02079K305,Google,2009,2009,2009-03-07,0,none,0,DISC,California,California,0.2883054146240997,0.28758210208743473
+96,S,10984.0,12,85207U105,Sprint,2009,2009,2009-03-11,0,none,0,INSD,Kansas,Kansas,,
+97,CMCSA,3226.0,12,20030N101,Comcast,2009,2009,2009-03-16,0,none,4000,DISC,Pennsylvania,Pennsylvania,0.1549390564422566,0.24202628829237038
+98,TM5,17874.0,12,"8,73E+08",T-Mobile USA,2009,2009,2009-07-07,0,none,0,HACK,Washington,Washington,,
+99,BLKB,260893.0,12,09227Q100,Blackbaud Inc.,2009,2009,2009-06-17,0,none,84000,PORT,South Carolina,South Carolina,0.4166550088592513,0.2953043573594282
+100,BR,176928.0,6,11133T103,"Broadridge Financial Solutions, Inc.",2009,2009,2009-06-22,0,none,0,DISC,New Jersey,New York,0.2146736629785081,0.18143627506729312
+101,T,9899.0,12,00206R102,AT&T,2009,2009,2009-07-08,0,none,2100,INSD,Illinois,Texas,0.0888242225334843,0.09971831185047662
+102,WMB,11506.0,12,"9,69E+08",Williams Cos. Inc.,2009,2009,2009-08-01,0,none,4400,PORT,Oklahoma,Oklahoma,0.1747575579766707,0.14703909612169908
+103,BAC,7647.0,12,60505104,Bank of America Corp.,2009,2009,2009-08-11,0,none,0,CARD,North Carolina,North Carolina,0.4558067842650552,0.43663115112440276
+104,C,3243.0,12,"1,73E+08",Citigroup Inc.,2009,2009,2009-08-11,0,none,0,CARD,New York,New York,1.2401693582284845,1.9703111825931394
+105,AXP,1447.0,12,25816109,American Express,2009,2009,2009-08-14,0,none,0,INSD,New York,New York,0.1567194358772892,0.5173981984729429
+106,CPS,65156.0,12,"1,70E+08",ChoicePoint,2009,2009,2009-10-19,0,none,14023,DISC,Georgia,Georgia,,
+107,CSCO,20779.0,12,17275R102,Cisco Live 2010,2010,2010,2010-07-08,0,none,0,HACK,Nevada,California,0.4239182923824401,0.6166976543803054
+108,C,3243.0,12,"1,73E+08",Citigroup Inc.,2010,2010,2010-07-27,0,none,117600,DISC,New York,New York,0.2456274821227149,0.6162555610303572
+109,MMC,7065.0,12,"5,72E+08",Marsh and Mercer,2010,2010,2010-07-12,0,none,378000,PORT,District Of Columbia,New York,0.2008752580555673,0.263872136295759
+110,GM,5073.0,12,37045V100,General Motors,2010,2010,2010-04-16,0,none,0,DISC,Michigan,Michigan,,
+111,ROST,9248.0,1,"7,78E+08",Ross,2009,2010,2010-08-05,0,none,200,PHYS,Texas,California,0.2619524578568664,0.2421966980349328
+112,HNT,29710.0,12,42222G108,Health Net,2010,2010,2010-04-16,0,none,18,UNKN,California,California,,
+113,GPS,4990.0,1,"3,65E+08",Gap Inc.,2009,2010,2010-04-16,0,none,18,INSD,Ohio,California,0.1092374005124845,0.24664052129855046
+114,USB,4723.0,12,"9,03E+08",US Bank,2010,2010,2010-09-28,0,none,0,CARD,Wisconsin,Minnesota,0.0692731410495103,0.28300459254638416
+115,ING,15617.0,12,"4,57E+08",ING,2010,2010,2010-10-12,0,none,0,DISC,Delaware,Minnesota,0.1294681682154929,0.11628148118603487
+116,CVS,7241.0,12,"1,27E+08",CVS,2005,2005,2005-06-21,0,none,0,DISC,Rhode Island,Rhode Island,0.084946372041713,0.20801915738140206
+117,VZ,2136.0,12,92343V104,Verizon,2005,2005,2005-08-12,0,none,0,DISC,New York,New York,0.0382339962664709,0.046093718901028445
+118,BLIAQ,3491.0,12,93676104,Blockbuster,2005,2005,2005-10-08,0,none,0,PHYS,New York,Texas,0.5387872005108032,0.3637474663039377
+119,MUSA,18498.0,12,"6,27E+08",Murphy USA,2010,2010,2010-11-06,0,none,0,PHYS,Indiana,Arkansas,,
+120,VOW3,,12,,Sunrise Volkswagen,2005,2005,2005-12-21,0,none,0,PHYS,New York,Virginia,,
+121,AT,1318.0,12,20039103,Alltel Corporation,2006,2006,2006-02-20,0,none,0,PHYS,Arkansas,Arkansas,,
+122,FITB,4640.0,12,"3,17E+08",Fifth Third Bank,2006,2006,2006-04-13,0,none,1000,INSD,Indiana,Ohio,0.1528308752154467,0.38352348227279426
+123,BSC,11818.0,11,73902108,Bear Stearns & Company Inc.,2006,2006,2006-04-20,0,none,0,DISC,New York,New York,0.0262995539793011,15.367965696846138
+124,BAC,7647.0,12,60505104,Countrywide Home Loans,2006,2006,2006-05-02,0,none,90,INSD,Texas,North Carolina,0.2288858373822009,0.7330677003714632
+125,BAC,7647.0,12,60505104,Merrill Lynch,2006,2006,2006-05-11,0,none,10500,PORT,New York,North Carolina,0.2933089901879609,0.38454880555206117
+126,GE,5047.0,12,"3,70E+08",GE Money Bank,2006,2006,2006-05-16,0,none,150,PORT,Pennsylvania,New York,0.7145659754221726,0.8167590256674774
+127,CFR,3643.0,12,"2,30E+08",Frost Bank,2006,2006,2006-05-19,0,none,9300,HACK,Texas,Texas,0.3949696294369409,0.3666865742697247
+128,WKL,101361.0,12,"9,78E+08",Wolters Kluwer,2006,2006,2006-07-24,0,none,8500,PORT,California,Illinois,,
+129,RBS,15634.0,12,"7,80E+08",RBS National Bank,2006,2006,2006-07-05,0,none,1221,PORT,Connecticut,Connecticut,,
+130,VZ,2136.0,12,92343V104,Verizon Wireless,2006,2006,2006-08-25,0,none,5210,DISC,New Jersey,New York,0.0506872155230834,0.13138303073466773
+131,WFC,8007.0,12,"9,50E+08",Wells Fargo,2006,2006,2006-08-29,0,none,0,PORT,Tennessee,California,0.1174177491574945,0.1024951270497029
+132,RO,25648.0,12,"7,71E+08",Hoffman-La Roche Inc,2006,2006,2006-08-09,0,none,26000,PORT,District Of Columbia,Indiana,,
+133,CPRT,29901.0,12,"2,17E+08","Copart, Inc.",2006,2006,2006-08-28,0,none,43764,HACK,California,Texas,0.010962793939397,0.01683201333104625
+134,SRCE,15199.0,12,"3,37E+08",1st Source Bank,2010,2010,2010-11-19,0,none,0,UNKN,Indiana,Indiana,0.1796142961665883,0.18811262356677513
+135,LFGRQ,24503.0,12,"5,15E+08","LandAmerica Credit Services, Inc.",2006,2006,2006-09-01,0,none,124,HACK,California,Virginia,,
+136,COF,30990.0,12,14040H105,North Fork Bank,2006,2006,2006-09-23,0,none,3570,HACK,New York,Virginia,0.3260605872669038,1.0869564664421156
+137,C,3243.0,12,"1,73E+08",Citigroup,2006,2006,2006-10-02,0,none,11,PORT,Illinois,New York,4.782090096475355,3.9787417015478166
+138,GCO,5109.0,1,"3,72E+08",Genesco Inc.,2009,2010,2010-12-10,0,none,0,HACK,Tennessee,Tennessee,1.5788073433326393,1.3699001209025392
+139,HD,5680.0,1,"4,37E+08",Home Depot,2009,2010,2010-12-14,0,none,0,INSD,Florida,Georgia,0.1730677744871205,0.38518641662364733
+140,SHLD,6307.0,1,"8,12E+08",Sears Holding Corporation,2005,2006,2006-10-12,0,none,0,PORT,Florida,Illinois,,
+141,KEY,9783.0,12,"4,93E+08",KeyCorp,2006,2006,2006-11-18,0,none,17,DISC,Ohio,Ohio,0.1082158356047214,0.08283169612767047
+142,EXPE,126296.0,6,30212P303,Expedia Corporate Travel (now Egencia),2006,2006,2006-11-15,0,none,47,INSD,Washington,Washington,0.561040695655729,0.7124020582698913
+143,S,10984.0,12,85207U105,Sprint Nextel,2006,2006,2006-12-19,0,none,255,PORT,New Jersey,Kansas,,
+144,BC,2444.0,12,"1,17E+08",Brunswick Corp.,2007,2007,2007-02-16,0,none,5100,HACK,Illinois,Illinois,0.2102969928139128,0.3754058119348188
+145,MCD,7154.0,12,"5,80E+08","McDonald's,",2010,2010,2010-12-13,0,none,0,HACK,Georgia,Illinois,0.1767054816002068,0.8781927172349279
+146,HD,5680.0,1,"4,37E+08",Home Depot,2006,2007,2007-04-30,0,none,5563,PORT,Georgia,Georgia,0.2388948122398877,0.3146312032938378
+147,HON,1300.0,12,"4,39E+08",Honeywell International,2007,2007,2007-04-19,0,none,0,PORT,New Jersey,New Jersey,1.0511047603229633,1.6801135380997372
+148,EZPW,24430.0,12,"3,02E+08",EZCORP,2007,2007,2007-05-08,0,none,0,PHYS,Texas,Texas,0.2439090851271798,0.4254265288413606
+149,HPQ,5606.0,10,40434L105,Hewlett-Packard,2007,2007,2007-08-17,0,none,1425,PORT,Georgia,California,0.1968631863278741,0.24027056935729713
+150,C,3243.0,12,"1,73E+08",Citigroup,2007,2007,2007-08-09,0,none,519,PORT,Connecticut,New York,8.004496575479218,9.686226375720773
+151,CELG,13599.0,12,"1,51E+08",Celgene Corporation,2007,2007,2007-08-20,0,none,1951,PORT,New Jersey,New Jersey,,
+152,KRFT,12978.0,12,50076Q106,Kraft Foods,2007,2007,2007-09-05,0,none,1446,PORT,Illinois,Illinois,,
+153,HIG,61739.0,12,"4,17E+08",Hartford Life Insurance Company,2007,2007,2007-09-12,0,none,526,HACK,Connecticut,Connecticut,0.3533692066175566,0.6533222019229296
+154,LDG,6802.0,1,"5,43E+08",Longs Drug Stores California Inc.,2006,2007,2007-10-23,0,none,0,PORT,California,Rhode Island,,
+155,VA,21261.0,12,92769R108,Virgin Mobile,2007,2007,2007-10-25,0,none,0,DISC,California,California,,
+156,ORCL,12142.0,5,68389X105,Oracle Corporation,2006,2007,2007-11-11,0,none,132,STAT,Georgia,California,0.4902456326244327,0.9457200060959364
+157,CFR,3643.0,12,"2,30E+08",Frost Bank,2007,2007,2007-11-07,0,none,500,UNKN,Texas,Texas,0.5490892474528564,0.7687437194865032
+158,JPM,2968.0,12,46625H100,Chase Bank,2011,2011,2011-01-20,0,none,100,CARD,California,New York,0.4572664531091061,0.31216717037894326
+159,PHIA,8546.0,12,"5,00E+08",Philips Electronics,2008,2008,2008-01-25,0,none,91,PORT,New Jersey,Massachusetts,,
+160,C,3243.0,12,"1,73E+08",Citibank,2008,2008,2008-01-25,0,none,1279,CARD,Texas,New York,9.22418977429536,10.94690962072452
+161,KBR,174310.0,12,48242W106,"KBR, Inc.",2011,2011,2011-01-26,0,none,0,PORT,Texas,Texas,0.4579305095586178,0.43511173086421795
+162,JPM,2968.0,12,46625H100,JP Morgan Chase,2011,2011,2011-01-30,0,none,0,UNKN,New York,New York,0.4043803786237262,0.2928267788289665
+163,MAR,28930.0,12,"5,72E+08",Marriott Vacation Club International,2010,2011,2011-02-07,0,none,0,PHYS,Florida,Washington,0.122124800735161,0.38754289364744526
+164,BAC,7647.0,12,60505104,Bank of America,2011,2011,2011-02-13,0,none,0,DISC,North Carolina,North Carolina,0.1375416882688885,0.09779579177814336
+165,FGP,13962.0,12,"3,15E+08",FirstGroup America,2011,2011,2011-02-11,0,none,0,PORT,Ohio,Ohio,,
+166,LTEC,61212.0,12,"5,46E+08","Loud Technologies, Inc.",2011,2011,2011-02-19,0,none,0,STAT,Washington,Washington,0.0404145233169323,0.023333335916201275
+167,AAL,1045.0,12,02376R102,American Airlines,2011,2011,2011-02-17,0,none,350,INSD,California,Texas,0.1439657004477051,0.5138398591809422
+168,RDS,12384.0,12,"7,80E+08",Shell,2011,2011,2011-03-09,0,none,3600,CARD,California,Texas,0.0506033390644186,0.07358713035726501
+169,TD,15706.0,10,"8,91E+08",TD Bank,2011,2011,2011-03-10,0,none,10,INSD,New Jersey,New Jersey,0.1312395907195102,0.2803063754747613
+170,RAND,,12,,Randstad Professionals,2011,2011,2011-03-18,0,none,0,DISC,Massachusetts,Massachusetts,0.0,1.515533084175184
+171,TRIP,199356.0,12,"8,97E+08",TripAdvisor,2011,2011,2011-03-24,0,none,0,HACK,Massachusetts,Massachusetts,,
+172,BP,2410.0,12,55622104,BP Global,2011,2011,2011-03-29,0,none,13000,PORT,Louisiana,Texas,0.3958477809458527,0.44523801662558754
+173,AAPL,1690.0,12,37833100,iTunes (Apple),2011,2011,2011-04-01,0,none,0,HACK,California,California,0.0801586727749719,0.16892354097025564
+174,AAL,1045.0,12,02376R102,US Airways,2011,2011,2011-04-06,0,none,0,INSD,Arizona,Arizona,0.2767551983965797,0.2921243823343728
+175,PNC,8245.0,12,"6,93E+08",PNC Automated Teller Machines,2011,2011,2011-04-13,0,none,211,CARD,Pennsylvania,Pennsylvania,0.3340043408699452,0.594674104121036
+176,SNE,9818.0,12,"8,36E+08",Sony,2011,2011,2011-04-26,0,none,"1,02E+08",HACK,New York,New York,,
+177,MDAS,179027.0,12,"5,84E+08",Medassets Inc.,2011,2011,2011-09-19,0,none,82265,PORT,Georgia,Georgia,,
+178,EDS,5074.0,12,"2,86E+08",Electronic Data Systems,2011,2011,2011-09-24,0,none,250,INSD,Alabama,Texas,,
+179,C,3243.0,12,"1,73E+08","Citigroup, Inc.",2011,2011,2011-08-18,0,none,0,UNKN,New York,New York,1.3815448730637117,1.3318910460481335
+180,MCD,7154.0,12,"5,80E+08",McDonald's,2011,2011,2011-08-09,0,none,185,INSD,Virginia,Illinois,1.360877049455053,0.9944323293452889
+181,JPM,2968.0,12,46625H100,Chase Bank,2011,2011,2011-07-30,0,none,950,CARD,California,New York,0.0930188483653565,0.9423554668507443
+182,LNC,6742.0,12,"5,34E+08",Lincoln National Life Insurance Company,2011,2011,2011-07-26,0,none,705,DISC,New York,Pennsylvania,0.3239263719654796,0.37921076274340715
+183,EL,61567.0,6,"5,18E+08",EsteÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ© Lauder,2011,2011,2011-07-26,0,none,0,PORT,New York,New York,0.4346291758799941,0.4545998636605254
+184,TOSYY,10622.0,12,"8,91E+08",Toshiba,2011,2011,2011-07-12,0,none,7971,HACK,California,California,0.312793920504435,0.30056314645261584
+185,MS,12124.0,11,"6,17E+08",Morgan Stanley,2011,2011,2011-07-05,0,none,34000,PORT,New York,New York,0.1591341152976884,0.4903146316913348
+186,LMT,6774.0,12,"5,40E+08",Lockheed Martin,2011,2011,2011-05-27,0,none,0,HACK,Maryland,Maryland,0.2655739295666144,0.7478651923630376
+187,SGAMY,9584.0,12,"8,16E+08",Sega,2011,2011,2011-06-18,0,none,1290000,HACK,UK,California,0.0386221205082912,0.0824351389324652
+188,SNE,9818.0,12,"8,36E+08",Sony Pictures,2011,2011,2011-06-06,0,none,1000000,HACK,New York,New York,,
+189,C,3243.0,12,"1,73E+08",Citibank,2011,2011,2011-06-09,0,none,360000,HACK,New York,New York,0.3830336608863814,0.7994299444010625
+190,BAC,7647.0,12,60505104,Bank of America,2011,2011,2011-05-25,0,none,300,INSD,New York,North Carolina,0.0980670079973228,0.125517419819262
+191,STI,10187.0,12,"8,68E+08",SunTrust Bank,2011,2011,2011-05-16,0,none,0,INSD,Illinois,Georgia,,
+192,NFLX,147579.0,12,64110L106,Netflix,2011,2011,2011-05-04,0,none,0,INSD,California,California,0.4700994785995681,0.4682865043544283
+193,ANTM,145046.0,12,36752103,Anthem Blue Cross,2011,2011,2011-05-13,0,none,31125,DISC,California,California,,
+194,RF,4674.0,12,7591EP100,Regions Bank,2011,2011,2011-05-17,0,none,149,INSD,Tennessee,Alabama,0.0470183415516642,0.08403282233150003
+195,BBY,2184.0,2,86516101,Best Buy,2010,2011,2011-05-06,0,none,0,HACK,California,Minnesota,0.1574709514813411,0.31400637826690525
+196,MCD,7154.0,12,"5,80E+08",McDonald's,2011,2011,2011-11-05,0,none,0,INSD,Illinois,Illinois,0.6542807075704253,0.7096513353398404
+197,MCD,7154.0,12,"5,80E+08",McDonald's,2011,2011,2011-11-18,0,none,16,INSD,Washington,Illinois,0.6681076040022206,0.7420206543888397
+198,MCD,7154.0,12,"5,80E+08",McDonald's,2011,2011,2011-11-16,0,none,100,INSD,Michigan,Illinois,0.6451419334446857,0.6391151224416675
+199,T,9899.0,12,00206R102,AT&T,2011,2011,2011-11-21,0,none,0,HACK,Texas,Texas,0.1398896759493688,0.1958390484675422
+200,PEG,8810.0,12,"7,45E+08",PSEG,2011,2011,2011-10-20,0,none,0,PORT,New Jersey,New Jersey,0.2956307589676077,0.3959528843774144
+201,WFC,8007.0,12,"9,50E+08",Wells Fargo,2011,2011,2011-10-20,0,none,0,DISC,Florida,California,0.5101651097111715,0.4665963673101342
+202,RAD,9155.0,2,"7,68E+08",RIte Aid Corporation,2011,2012,2012-01-12,0,none,2900,PHYS,Pennsylvania,Pennsylvania,,
+203,AXP,1447.0,12,25816109,"American Express Travel Related Services Company, Inc. (AXP)",2012,2012,2012-07-13,0,none,27257,CARD,California,New York,0.5337570906016852,0.6877692382462853
+204,SPLS,15521.0,1,"8,55E+08",Staples (Staples Business Depot),2011,2012,2012-02-02,0,none,50,INSD,New York,Massachusetts,,
+205,WIN,174490.0,12,97382A200,Windstream,2012,2012,2012-01-27,0,none,0,INSD,North Carolina,Arkansas,,
+206,AAN,1076.0,12,2535300,Aaron's,2011,2011,2011-11-02,0,none,1008,STAT,California,Georgia,,
+207,BGK,,12,,Burger King,2012,2012,2012-02-25,0,none,30,INSD,Oregon,Florida,0.0286569096089642,0.026440850564697894
+208,HRB,2269.0,4,93671105,H&R Block,2011,2012,2012-03-23,0,none,0,INSD,California,Missouri,0.0968953506950018,0.08872890452817021
+209,UA,165052.0,12,"9,04E+08",Under Armour Inc.,2012,2012,2012-04-20,0,none,0,PORT,Maryland,Washington,,
+210,CHH,65615.0,12,"1,70E+08",Choice Hotels Internationals,2012,2012,2012-04-26,0,none,0,DISC,Maryland,Maryland,0.4628043059691581,0.3926478530533531
+211,RAX,179925.0,12,"7,50E+08","Rackspace, Incorporating Services, Ltd.",2012,2012,2012-05-02,0,none,0,HACK,Delaware,Texas,,
+212,F,4839.0,12,"3,45E+08",Ford-Motor,2012,2012,2012-05-05,0,none,0,HACK,Michigan,Michigan,0.1217550585436605,0.15297941834424988
+213,KEY,9783.0,12,"4,93E+08",Key Bank,2012,2012,2012-05-09,0,none,2937,INSD,Oregon,Ohio,0.0130250668844538,0.08790510313902618
+214,COF,30990.0,12,14040H105,Capital One Bank,2012,2012,2012-05-09,0,none,0,INSD,Texas,Virginia,0.3403623813749989,1.1476382679221881
+215,CMCSA,3226.0,12,20030N101,Comcast,2012,2012,2012-05-20,0,none,294,HACK,Pennsylvania,Pennsylvania,0.1214294430909868,0.09238372507646392
+216,LNKD,186342.0,12,53578A108,LinkedIn.com,2012,2012,2012-05-29,0,none,"1,67E+08",HACK,California,California,,
+217,HD,5680.0,1,"4,37E+08",The Home Depot,2011,2012,2012-04-13,0,none,36,INSD,Georgia,Georgia,0.5677020833102585,0.7136587276608525
+218,MCD,7154.0,12,"5,80E+08",McDonald's,2012,2012,2012-04-28,0,none,0,INSD,Illinois,Illinois,0.8075741206234645,0.7985670091075994
+219,GRPN,187363.0,12,"3,99E+08",Groupon,2012,2012,2012-07-02,0,none,170,DISC,Illinois,Illinois,18.544363289979813,15.046928183520592
+220,YHOO,62634.0,12,"9,84E+08",Yahoo! Voices,2012,2012,2012-07-12,0,none,453492,HACK,California,California,,
+221,NVD,117768.0,1,67066G104,Nvidia,2011,2012,2012-07-13,0,none,400000,HACK,California,California,,
+222,C,3243.0,12,"1,73E+08",Citibank,2012,2012,2012-03-13,0,none,0,HACK,New York,New York,0.7817241231393357,1.2921384995998193
+223,YAMCY,,12,,Yamaha Commercial Audio Systems,2012,2012,2012-02-20,0,none,1755,HACK,Ohio,California,0.0,0.18446639789535452
+224,CUBE,160990.0,12,"2,30E+08","Patriot Self Storage (CubeSmart Management, LLC)",2012,2012,2012-02-03,0,none,0,PHYS,Massachusetts,Pennsylvania,0.0821150669326589,0.09989176958924387
+225,AAPL,1690.0,12,37833100,Apple,2012,2012,2012-09-04,0,none,1000000,HACK,California,California,0.0964037914658045,0.18723876208322274
+226,TD,15706.0,10,"8,91E+08",TD Bank,2012,2012,2012-10-08,0,none,260000,PORT,New Jersey,New Jersey,0.1508132847097255,0.14549458796924303
+227,TM5,17874.0,12,"8,73E+08",T-Mobile,2012,2012,2012-01-16,0,none,44,HACK,Washington,Washington,,
+228,BKS,28924.0,12,67774109,Barnes & Noble,2012,2012,2012-10-23,0,none,0,CARD,New York,New York,,
+229,ADBE,12540.0,11,00724F101,Adobe,2012,2012,2012-11-14,0,none,230,HACK,California,California,0.1848778860883414,0.3266596979990028
+230,FEIC,31881.0,12,30241L109,FEI Company,2012,2012,2012-10-12,0,none,0,PORT,Oregon,Oregon,,
+231,PF,185334.0,12,72348P104,"Pinnacle Foods Group, LLC",2012,2012,2012-11-26,0,none,1818,PORT,Wisconsin,New Jersey,,
+232,NYT,7866.0,12,"6,50E+08",The New York Times,2013,2013,2013-01-30,0,none,0,HACK,New York,New York,0.1317394389756644,0.28598719216848006
+233,MCD,7154.0,12,"5,80E+08",McDonald's,2013,2013,2013-02-07,0,none,0,INSD,Georgia,Illinois,0.1467058529624691,0.3765774338571591
+234,WAG,11264.0,8,"9,31E+08",Walgreens,2013,2013,2013-02-15,0,none,0,INSD,Kentucky,Illinois,,
+235,ESRX,25356.0,12,30219G108,Express Scripts,2013,2013,2013-02-18,0,none,0,DISC,Missouri,Missouri,0.918598882379284,0.9499551396741658
+236,JPM,2968.0,12,46625H100,J.P. Morgan Chase,2013,2013,2013-02-12,0,none,6000,CARD,New York,New York,0.2169473251367441,0.2177640085452962
+237,HIS,162906.0,11,"4,52E+08","Information Handling Services, Inc. (IHS)",2013,2013,2013-02-27,0,none,8500,HACK,Colorado,Colorado,,
+238,TD,15706.0,10,"8,91E+08","TD Bank, N.A.",2013,2013,2013-03-04,0,none,0,PORT,New Jersey,New Jersey,0.0640867491182596,0.1350565668881416
+239,PRU,143356.0,12,"7,44E+08","The Prudential Insurance Company of America, Unisys",2013,2013,2013-03-04,0,none,0,DISC,New Jersey,New Jersey,0.6292813416739895,1.0510386181701388
+240,SWK,10016.0,12,"8,55E+08","Stanley Black & Decker, Inc.",2013,2013,2013-03-11,0,none,0,PORT,Connecticut,Connecticut,0.3940537217883664,1.1225625698334614
+241,FB,170617.0,12,30303M102,Facebook,2013,2013,2013-02-15,0,none,0,HACK,California,California,,
+242,MSFT,12141.0,6,"5,95E+08",Microsoft,2013,2013,2013-02-22,0,none,0,HACK,Washington,New Mexico,0.1924883537040148,0.19374049066845242
+243,AAPL,1690.0,12,37833100,Apple,2013,2013,2013-02-19,0,none,0,HACK,California,California,0.2258279577361903,0.2976765269562009
+244,AMD,1161.0,12,7903107,"Advanced Micro Devices (AMD), Nvidia",2013,2013,2013-01-13,0,none,0,INSD,California,California,0.0275379202677533,0.0764489696011336
+245,INTC,6008.0,12,"4,58E+08",Intel,2012,2012,2012-04-09,0,none,0,INSD,Massachusetts,California,0.1471085810756683,0.21971824387507605
+246,CHH,65615.0,12,"1,70E+08",Comfort Inn and Suites,2013,2013,2013-03-22,0,none,0,INSD,Missouri,Maryland,0.0468314955330033,0.7638163588699353
+247,FINL,25357.0,12,"3,18E+08","The Finish Line, Inc.",2013,2013,2013-03-26,0,none,0,PORT,Indiana,Indiana,0.5853752218036461,0.4420550668908871
+248,ROL,9225.0,12,"7,76E+08","Rollins, Inc.",2013,2013,2013-03-27,0,none,0,DISC,Georgia,Georgia,0.0256570481351153,0.029144951568546566
+249,C,3243.0,12,"1,73E+08",Citi,2013,2013,2013-03-28,0,none,0,DISC,Texas,New York,0.1897010069749818,0.6519025768233568
+250,AXP,1447.0,12,25816109,American Express,2013,2013,2013-04-01,0,none,0,HACK,Texas,New York,0.5190365211331049,0.5964644876802282
+251,CSC,3336.0,3,"2,05E+08",Computer Sciences Corporation,2012,2013,2013-04-03,0,none,0,PORT,North Carolina,Virginia,0.0,0.0
+252,AXP,1447.0,12,25816109,American Express,2013,2013,2013-03-29,0,none,0,HACK,New York,New York,0.1476942178744034,0.46883708127103485
+253,JPM,2968.0,12,46625H100,JPMorgan Chase,2013,2013,2013-03-28,0,none,0,HACK,New York,New York,0.4197535148722832,0.41172094299091294
+254,SHLD,6307.0,1,"8,12E+08",Sears,2012,2013,2013-04-22,0,none,788,PORT,Arkansas,Illinois,,
+255,M,4611.0,1,55616P104,Macy's,2012,2013,2013-04-23,0,none,0,DISC,Indiana,New York,0.3448698436963276,0.4302566275391373
+256,IBE,,12,,Iberdola USA,2013,2013,2013-04-16,0,none,5100,HACK,Maine,Maine,,
+257,GS,114628.0,11,38141G104,Goldman Sachs,2013,2013,2013-05-12,0,none,0,DISC,New York,New York,2.2448701599156378,2.879908677570395
+258,ADBE,12540.0,11,00724F101,Adobe,2013,2013,2013-05-09,0,none,160000,HACK,Washington,California,1.0807172756397114,1.1552463649594313
+259,SCOR,177780.0,12,20564W105,comScore,2013,2013,2013-06-12,0,none,0,DISC,Virginia,Virginia,5.87025895387794,14.6001538690997
+260,FB,170617.0,12,30303M102,Facebook,2013,2013,2013-06-21,0,none,6000000,DISC,California,California,,
+261,C,3243.0,12,"1,73E+08",Citi Prepaid Services,2013,2013,2013-06-27,0,none,0,DISC,New York,New York,0.8747488430733545,0.6820592866338876
+262,AAPL,1690.0,12,37833100,Apple Inc.,2013,2013,2013-07-21,0,none,0,HACK,California,California,0.1617688748205573,0.2213886581150593
+263,NDAQ,149337.0,12,"6,31E+08",NASDAQ.com,2013,2013,2013-07-18,0,none,0,HACK,New York,New York,0.0591865007078693,0.11670020096000258
+264,NDAQ,149337.0,12,"6,31E+08",NASDAQ OMX Group Inc.,2013,2013,2013-07-25,0,none,0,INSD,New York,New York,0.1318499846333645,0.17454881328953434
+265,C,3243.0,12,"1,73E+08",Citigroup,2013,2013,2013-07-17,0,none,146000,DISC,New York,New York,0.3171645841605519,0.9123056441576095
+266,WMT,11259.0,1,"9,31E+08",Wal-Mart,2012,2013,2013-07-29,0,none,0,CARD,Oklahoma,Arkansas,0.0134426393991881,0.07855565237774574
+267,EXEL,133885.0,12,30161Q104,Exelixis,2013,2013,2013-08-16,0,none,0,PORT,California,California,0.0434932667283859,0.11207136133258006
+268,NOC,7985.0,12,"6,67E+08",Northrop Grunman,2013,2013,2013-08-09,0,none,70000,HACK,Georgia,Virginia,0.3386960062949912,0.47775392116997517
+269,NYT,7866.0,12,"6,50E+08",The New York Times,2013,2013,2013-08-27,0,none,0,HACK,New York,New York,0.2183111741138329,0.2599338868872883
+270,GPS,4990.0,1,"3,65E+08",Gap,2012,2013,2013-07-16,0,none,20,DISC,California,California,0.1329741992993612,0.2863027943570279
+271,GOOG,160329.0,12,02079K305,Google Chrome,2013,2013,2013-10-11,0,none,0,DISC,California,California,0.2251039153025404,0.34332780404797647
+272,ADBE,12540.0,11,00724F101,Adobe,2013,2013,2013-10-03,0,none,2900000,HACK,California,California,0.571637551029451,1.0393451451877578
+273,DENN,19398.0,12,24869P104,Denny's,2013,2013,2013-09-30,0,none,200,PHYS,Arizona,California,0.0471697890707483,0.045898369440855305
+274,JPM,2968.0,12,46625H100,JP Morgan Chase,2013,2013,2013-10-01,0,none,0,DISC,New York,New York,0.2628163268765841,0.5287575359264984
+275,CCI,113490.0,12,22822V101,Crown Castle International Corp,2013,2013,2013-11-25,0,none,0,HACK,Pennsylvania,Texas,0.2302840029463944,0.5149050984703347
+276,FB,170617.0,12,30303M102,Facebook,2013,2013,2013-12-04,0,none,2000000,HACK,California,California,,
+277,JPM,2968.0,12,46625H100,JPMorgan Chase,2013,2013,2013-12-05,0,none,465000,HACK,New York,New York,0.4513217679417314,0.3868858527267048
+278,BGS,158743.0,12,05508R106,"B&G Foods North America, Inc.",2013,2013,2013-12-06,0,none,0,HACK,Vermont,Vermont,0.0956010261897754,0.23638371226459368
+279,DFS,177376.0,11,"2,55E+08",Discover Financial Services,2013,2013,2013-11-11,0,none,0,UNKN,Illinois,Illinois,0.5893370301603807,0.46564828760436
+280,TGT,3813.0,1,8.76E+110,Target Corp.,2012,2013,2013-12-13,0,none,40000000,HACK,Minnesota,Minnesota,0.2509608278107473,0.4662997168806434
+281,DFS,177376.0,11,"2,55E+08",Discover Financial Services,2013,2013,2013-12-20,0,none,0,UNKN,Illinois,Illinois,0.362073890526854,0.41312895891480933
+282,AXP,1447.0,12,25816109,American Express Company,2013,2013,2013-12-29,0,none,0,UNKN,New York,New York,0.6657504364553747,0.6318968825662217
+283,KO,3144.0,12,"1,91E+08",Coca-Cola Company,2014,2014,2014-01-24,0,none,0,PORT,Georgia,Georgia,0.3815188995091966,0.49805239526050205
+284,AAPL,1690.0,12,37833100,Apple,2014,2014,2014-02-26,0,none,0,HACK,California,California,0.1395427965403953,0.17011488422538024
+285,SHLD,6307.0,1,"8,12E+08",Sears,2013,2014,2014-02-28,0,none,0,HACK,Illinois,Illinois,,
+286,SBH,175900.0,9,7.95E+108,Sally Beauty Supply,2014,2014,2014-03-05,0,none,25000,HACK,Texas,Texas,0.2207488275417941,0.2856590195912202
+287,SJM,9777.0,4,"8,33E+08",Smucker's,2013,2014,2014-03-04,0,none,0,HACK,Ohio,Ohio,0.5581229294350564,0.7112779926828227
+288,COF,30990.0,12,14040H105,Capital One,2014,2014,2014-03-04,0,none,0,INSD,Utah,Virginia,0.9865500269633748,1.2658866308091963
+289,ALSK,126555.0,12,01167P101,Alaska Communications,2014,2014,2014-02-20,0,none,0,HACK,Alaska,Alaska,,
+290,AXP,1447.0,12,25816109,American Express Company,2014,2014,2014-04-07,0,none,0,CARD,New York,New York,1.2074216687256811,2.049206340468031
+291,NCOG,,12,,NCO Financial Systems Inc.,2014,2014,2014-04-22,0,none,0,DISC,Pennsylvania,Pennsylvania,,
+292,LOW,6829.0,1,"5,49E+08",Lowe's,2013,2014,2014-05-19,0,none,0,DISC,North Carolina,North Carolina,0.0750871819835925,0.6382774286698997
+293,EBAY,114524.0,12,"2,79E+08",Ebay,2014,2014,2014-05-21,0,none,"1,45E+08",HACK,California,California,0.1150511150697409,0.11287169030255964
+294,AN,9063.0,12,05329W102,AutoNation Toyota of South Austin,2014,2014,2014-05-26,0,none,0,HACK,Texas,California,0.0900001525878906,0.741869589717536
+295,LOW,6829.0,1,"5,49E+08",Lowes Corporation,2013,2014,2014-05-22,0,none,35000,DISC,North Carolina,North Carolina,0.6816970956195129,0.8649442545905888
+296,T,9899.0,12,00206R102,"AT&T Mobility, LLC",2014,2014,2014-06-10,0,none,0,INSD,Missouri,Texas,0.0336804464213635,0.04172383529302884
+297,HNFSB,28730.0,5,41078W100,Hanover Foods Corporation,2013,2014,2014-05-21,0,none,5867,DISC,Pennsylvania,Pennsylvania,7.643987599261118,7.537066687881951
+298,GS,114628.0,11,38141G104,Goldman Sachs,2014,2014,2014-07-02,0,none,0,DISC,New York,New York,1.027554696339128,1.0538511607191743
+299,BA,2285.0,12,97023105,Boeing,2014,2014,2014-07-11,0,none,0,HACK,Washington,Illinois,0.5618019104003906,1.111432451493292
+300,LMT,6774.0,12,"5,40E+08",Lockheed Martin,2014,2014,2014-07-11,0,none,0,HACK,Texas,Maryland,1.0229871190601123,1.5491586749780322
+301,ACM,147988.0,9,00766T100,Aecom,2014,2014,2014-07-08,0,none,0,HACK,California,California,0.2573210030621493,1.0250055533502669
+302,BAC,7647.0,12,60505104,Bank of America,2014,2014,2014-07-17,0,none,0,DISC,Maryland,North Carolina,0.1790622798100618,0.12560024857020294
+303,RAD,9155.0,2,"7,68E+08",Rite Aid Pharmacy,2013,2014,2014-07-30,0,none,521,PHYS,Washington,Pennsylvania,,
+304,ABS,25645.0,12,13091103,Albertsons/AB Acquisitions LLC,2014,2014,2014-08-15,0,none,0,HACK,Idaho,Idaho,,
+305,SVU,10190.0,2,"8,69E+08",Supervalue,2013,2014,2014-08-14,0,none,0,HACK,Minnesota,Minnesota,0.8063687611267172,1.0383741890553728
+306,JPM,2968.0,12,46625H100,J.P Morgan Chase,2014,2014,2014-08-27,0,none,76000000,HACK,New York,New York,0.1703478075526612,0.5397757150758759
+307,AAPL,1690.0,12,37833100,Apple,2014,2014,2014-09-01,0,none,0,HACK,California,California,0.5158113803119344,0.41073834497235
+308,HD,5680.0,1,"4,37E+08",The Home Depot,2013,2014,2014-09-02,0,none,56000000,HACK,Georgia,Georgia,0.86532357979657,0.9337318687318983
+309,ABS,25645.0,12,13091103,Albertson's LLC,2014,2014,2014-09-29,0,none,0,HACK,Washington,Idaho,,
+310,T,9899.0,12,00206R102,AT&T,2014,2014,2014-10-06,0,none,1600,INSD,Texas,Texas,0.0723466332009283,0.09880075384317133
+311,SHLD,6307.0,1,"8,12E+08",Sears,2013,2014,2014-10-10,0,none,0,HACK,Illinois,Illinois,,
+312,SPLS,15521.0,1,"8,55E+08",Staples Inc.,2013,2014,2014-10-20,0,none,1200000,HACK,Massachusetts,Massachusetts,,
+313,FNF,165264.0,12,31620R303,Fidelity National Financial,2014,2014,2014-11-03,0,none,0,HACK,Florida,Florida,0.0951150958442214,0.13690527384191484
+314,SNE,9818.0,12,"8,36E+08",Sony Pictures,2014,2014,2014-11-24,0,none,47000,HACK,New York,New York,,
+315,EME,6223.0,12,29084Q100,Emcor Services Mesa Energy Systems,2014,2014,2014-12-11,0,none,0,PORT,California,California,0.7319551258468038,1.0535504134908786
+316,MSFT,12141.0,6,"5,95E+08",Microsoft xBox,2014,2014,2014-12-26,0,none,0,HACK,Washington,Washington,0.2459775326460782,0.5562609651934379
+317,MS,12124.0,11,"6,17E+08",Morgan Stanley,2015,2015,2015-01-05,0,none,350000,INSD,New York,New York,0.7622183182620592,0.7881431459031241
+318,M04,,12,,Mandarin Oriental Hotel Group,2015,2015,2015-03-04,0,none,0,HACK,New York,New York,,
+319,WMT,11259.0,1,"9,31E+08","Wal-Mart, Sam's Club",2009,2010,2010-06-07,1,M&A,117,HACK,Arkansas,Arkansas,0.0601349656178867,0.10916399730646964
+320,SAIC,18683.0,1,"8,09E+08",Science Applications International Corp. (SAIC),2004,2005,2005-02-12,1,Investigation,45000,STAT,California,Virginia,,
+321,DSW,24171.0,12,23334L102,"DSW Shoe Warehouse, Retail Ventures",2005,2005,2005-03-08,1,Statement,1400000,HACK,Ohio,Ohio,,
+322,RL,64891.0,3,"7,51E+08","Polo Ralph Lauren, HSBC",2004,2005,2005-04-15,1,Investigation,180000,HACK,New York,New York,1.0279545190338144,0.86422971976342
+323,AMTD,64552.0,9,87236Y108,TD Ameritrade,2005,2005,2005-04-20,1,Earnings,200000,PORT,Nebraska,Nebraska,,
+324,MSI,7585.0,12,"6,20E+08",Motorola,2005,2005,2005-05-30,1,M&A,0,STAT,Illinois,Illinois,0.2418018719119471,0.5879486798019877
+325,C,3243.0,12,"1,73E+08","Citigroup, UPS",2005,2005,2005-06-06,1,M&A,3900000,PORT,New York,New York,0.5246821601874797,1.2988244454113427
+326,JPM,2968.0,12,46625H100,JP Morgan Chase & Co.,2005,2005,2005-08-30,1,M&A,0,PORT,Texas,New York,0.1223609569989428,0.14697606915178899
+327,COF,30990.0,12,14040H105,North Fork Bank (now Capital One Bank),2005,2005,2005-09-17,1,M&A,9000,PORT,New York,Virginia,0.691665090454665,0.7565582323684262
+328,YGRO,6019.0,12,"2,34E+08",RBC Dain Rauscher,2005,2005,2005-09-28,1,Investigation,300000,INSD,Minnesota,Toronto,,
+329,WMT,11259.0,1,"9,31E+08","Sam's Club, a division of Wal-Mart Stores, Inc",2004,2005,2005-12-12,1,Investigation,0,UNKN,Arkansas,Arkansas,0.1649546194567882,0.21270616446678692
+330,GUID,176255.0,12,"4,02E+08","Guidance Software, Inc.",2005,2005,2005-12-20,1,Other,3800,HACK,California,California,,
+331,F,4839.0,12,"3,45E+08",Ford Motor Co.,2005,2005,2005-12-22,1,Earnings,70000,STAT,Michigan,Michigan,0.0694923901569848,0.08942436711242065
+332,FDX,4598.0,5,31428X106,FedEx,2005,2006,2006-02-04,1,Earnings,1100,DISC,California,Tennessee,0.5128796323519524,1.1193437152968724
+333,HON,1300.0,12,"4,39E+08",Honeywell International,2006,2006,2006-01-31,1,Earnings,19000,UNKN,New Jersey,New Jersey,0.3471147615489731,0.729287049099719
+334,GM,5073.0,12,37045V100,General Motors (GM),2006,2006,2006-03-14,1,Other,100,INSD,Michigan,Michigan,,
+335,ED,3413.0,12,"2,09E+08",Con Edison,2006,2006,2006-04-01,1,M&A,15000,PORT,New York,New York,0.167280674732143,0.24122799771374018
+336,AH,23667.0,12,"5,00E+08","Ahold USA, parent company of Stop & Shop, Giant stores and Tops stores via  subcontractor Electronic Data Systems (EDS)",2006,2006,2006-06-02,1,Earnings,92000,PORT,Maryland,Amsterdam,,
+337,UNP,10867.0,12,"9,08E+08",Union Pacific,2006,2006,2006-06-16,1,Earnings,30000,PORT,Nebraska,Nebraska,0.3052829522545228,0.30165845973392086
+338,ING,15617.0,12,"4,57E+08","ING U.S. Financial Services, Jackson Health System",2006,2006,2006-06-18,1,Investigation,13000,PORT,Florida,Amsterdam,0.165961253464679,0.5573748992557429
+339,EFX,4423.0,12,"2,94E+08",Equifax,2006,2006,2006-06-20,1,Investigation,2500,PORT,Georgia,Georgia,0.2168564917208555,0.2978074304361415
+340,ALL,63735.0,12,02099X006,AllState Insurance Huntsville branch,2006,2006,2006-06-29,1,Investigation,27000,STAT,Alabama,Illinois,0.3431320957037441,0.5090864281445983
+341,NNI,155738.0,12,64031N108,"Nelnet Inc., UPS",2006,2006,2006-07-18,1,Earnings,188000,PORT,Nebraska,Nebraska,0.2221968711654523,0.5461145204871068
+342,AWI,175689.0,12,04247X102,"Armstrong World Industries, Deloitte & Touche",2006,2006,2006-07-25,1,M&A,12000,PORT,Pennsylvania,Pennsylvania,,
+343,EFX,4423.0,12,"2,94E+08",Equifax,2010,2010,2010-02-11,1,Earnings,35,DISC,Georgia,Georgia,0.1321487388354265,0.32885420821978356
+344,DLTR,31587.0,12,"2,57E+08",Dollar Tree,2006,2006,2006-08-01,1,Earnings,0,HACK,California,Virginia,0.4120501170688117,0.4211888587822171
+345,TM,19661.0,12,"8,92E+08",Toyota,2006,2006,2006-08-04,1,Investigation,1500,PORT,Texas,California,1.6163438535301868,1.4749097866661787
+346,AOL,183920.0,12,00184X105,American Online (AOL),2006,2006,2006-08-06,1,Other,650000,DISC,New York,New York,,
+347,D,4029.0,12,25746U109,Dominion Resources,2006,2006,2006-08-25,1,Earnings,0,PORT,Virginia,Virginia,0.1787657340839257,0.18619753828707036
+348,DBD,3946.0,12,"2,54E+08","Diebold, Inc., GE Capital",2006,2006,2006-08-31,1,Investigation,0,PORT,Ohio,Ohio,,
+349,HRB,2269.0,4,93671105,H&R Block,2009,2010,2010-03-23,1,Earnings,60,INSD,Illinois,Missouri,0.119995363966885,0.2036601386748749
+350,MOVI,30559.0,12,"6,25E+08",Movie Gallery US,2006,2006,2006-09-25,1,Investigation,3800,PHYS,North Carolina,Oregon,,
+351,TMUS,17874.0,12,"8,73E+08",T-Mobile USA Inc.,2006,2006,2006-10-14,1,Other,43000,PORT,Washington,Washington,,
+352,HRH,14466.0,12,"4,31E+08","Hilb, Rogal & Hobbs, Villanova University",2006,2006,2006-11-02,1,Earnings,1243,PORT,Pennsylvania,Virginia,,
+353,HTZ,5600.0,12,42805T105,"Hertz Global Holdings, Inc.",2006,2006,2006-11-11,1,IPO,0,INSD,Oklahoma,Florida,,
+354,WCC,120444.0,12,95082P105,Wesco,2006,2006,2006-11-03,1,Other,0,CARD,Michigan,Pennsylvania,1.0169102841164268,1.1028966712361838
+355,T,9899.0,12,00206R102,AT&T/Ferrell Communication,2010,2010,2010-05-25,1,M&A,0,DISC,Florida,Texas,0.0558447912413216,0.14389485875859503
+356,BMO,15580.0,10,63671101,BMO Harris Bank,2012,2012,2012-08-30,1,Earnings,0,PORT,Wisconsin,Toronto,0.2278376675544037,0.24559184797777064
+357,HRB,2269.0,4,93671105,H&R Block,2004,2005,2005-12-22,1,Statement,0,DISC,Missouri,Missouri,0.1651693513701828,0.12904865867133536
+358,BA,2285.0,12,97023105,Boeing,2006,2006,2006-12-13,1,Investigation,382000,PORT,Washington,Illinois,0.3187210109068953,0.30679080057957614
+359,MGI,5342.0,12,60935Y208,MoneyGram International,2007,2007,2007-01-12,1,Earnings,79000,HACK,Minnesota,Texas,,
+360,TJX,11672.0,1,"8,73E+08","TJ stores (TJX), including TJMaxx, Marshalls, Winners, HomeSense, AJWright,  KMaxx, and possibly Bob's Stores in U.S. & Puerto Rico -- Winners and HomeGoods stores in Canada -- and possibly TKMaxx stores in UK and Ireland",2006,2007,2007-01-17,1,Earnings,"1,00E+08",HACK,Massachusetts,Massachusetts,0.0464266989600783,0.04039277195132224
+361,KBH,12689.0,12,48666K109,KB Home,2007,2007,2007-01-18,1,Earnings,2700,STAT,South Carolina,Michigan,0.8219111477951762,1.279224718115849
+362,PJC,8605.0,12,"7,24E+08",Piper Jaffrey,2007,2007,2007-02-08,1,Other,1000,DISC,Minnesota,Minnesota,,
+363,AMCC,65904.0,3,03822W406,Applied Micro Circuits Corporation,2010,2011,2011-04-04,1,Earnings,0,PORT,California,California,,
+364,SAIC,18683.0,1,"8,09E+08",Science Applications International Corp. (SAIC),2006,2007,2007-03-19,1,Earnings,0,PHYS,Idaho,Idaho,,
+365,RSHCQ,,12,,RadioShack,2007,2007,2007-03-29,1,Earnings,0,PHYS,Texas,Texas,,
+366,GOOG,160329.0,12,02079K305,Google Ads,2007,2007,2007-04-27,1,Earnings,0,HACK,California,California,0.0404492487972866,0.13768160473389746
+367,CAT,2817.0,12,"1,49E+08","Caterpillar, Inc., SBA Inc.",2007,2007,2007-04-27,1,Earnings,0,PORT,Illinois,Illinois,0.2608304971041278,0.41192179784054933
+368,ALU,101352.0,12,13904305,Alcatel-Lucent,2007,2007,2007-03-18,1,Other,0,PORT,New Jersey,France,,
+369,FNFV,165264.0,12,31620R303,Fidelity National Information Services/Certegy Check Services Inc.,2007,2007,2007-07-03,1,M&A,8500000,INSD,Florida,Florida,,
+370,LRCX,6565.0,6,"5,13E+08",Lam Research Corp.,2010,2010,2010-04-14,1,Earnings,0,PORT,California,California,0.578406617967274,0.7048559452649142
+371,PRU,143356.0,12,"7,44E+08",Prudential Financial Inc.,2006,2006,2006-02-06,1,Earnings,1000,DISC,New Jersey,New Jersey,0.2521766265015248,0.2276008860413527
+372,WU,175263.0,12,"9,60E+08",Western Union,2007,2007,2007-07-17,1,Investigation,20000,HACK,Colorado,Colorado,0.0711628616493507,0.09097976954543709
+373,NFLX,147579.0,12,64110L106,Netflix,2010,2010,2010-01-01,1,Earnings,"1,00E+08",UNKN,California,California,0.139071470927107,0.3036039457382922
+374,VRSN,66368.0,12,9.23E+106,Verisign,2007,2007,2007-08-06,1,Earnings,0,PORT,California,Virginia,0.6176617373996864,0.46542333182264456
+375,EDS,5074.0,12,"2,86E+08",Electronic Data Systems,2007,2007,2007-08-07,1,Earnings,498,INSD,Alabama,Texas,,
+376,MWW,64156.0,12,"6,12E+08",Monster.com,2007,2007,2007-08-23,1,Other,146000,HACK,Massachusetts,Massachusetts,,
+377,AMTD,64552.0,9,87236Y108,TD Ameritrade Holding Corp.,2007,2007,2007-09-14,1,M&A,6300000,HACK,Nebraska,Nebraska,,
+378,SMTC,9599.0,1,"8,17E+08",Semtech,2006,2007,2007-10-08,1,Investigation,0,PORT,California,California,0.4496198886912085,0.6545235676815664
+379,HD,5680.0,1,"4,37E+08",Home Depot,2006,2007,2007-10-17,1,Other,10000,PORT,Massachusetts,Georgia,0.5638190800782273,0.7513061981113714
+380,LNC,6742.0,12,"5,34E+08",Lincoln National Corporation (Lincoln Financial),2010,2010,2010-01-14,1,Other,1200000,INSD,Pennsylvania,Pennsylvania,0.1870351942427779,0.19415532264633395
+381,LXK,61552.0,12,"5,30E+08",Lexmark International,2008,2008,2008-02-15,1,Other,0,DISC,Kentucky,Kentucky,,
+382,KRFT,12978.0,12,50076Q106,Kraft Foods,2008,2008,2008-03-03,1,Earnings,20000,PORT,Illinois,Illinois,,
+383,A,126554.0,10,00846U101,Agilent Technologies,2008,2008,2008-03-22,1,Earnings,51000,PORT,California,California,0.3290847503236878,0.2931115301263098
+384,AAP,145977.0,12,00751Y106,Advance Auto Parts,2008,2008,2008-03-31,1,Earnings,56000,HACK,Virginia,Virginia,1.0351034785792437,0.8283225969716284
+385,HOG,12389.0,12,"4,13E+08","Harley-Davidson, Inc. (HOG)",2008,2008,2008-04-04,1,Investigation,60000,PORT,Wisconsin,Wisconsin,0.0925124542843291,0.5697839427776097
+386,WLP,27766.0,12,94973H108,WellPoint,2008,2008,2008-04-08,1,M&A,128000,DISC,Indiana,Indiana,,
+387,PBCT,16245.0,12,"7,13E+08",People's United Bank,2008,2008,2008-04-09,1,Other,0,PHYS,Connecticut,Connecticut,,
+388,BC,2444.0,12,"1,17E+08",Brunswick Corp.,2008,2008,2008-04-21,1,Other,700,STAT,Illinois,Illinois,0.3437976140009742,0.33048137802947897
+389,NUAN,61685.0,12,67020Y100,Nuance Communications Inc.,2010,2010,2010-03-13,1,M&A,1191,PORT,Massachusetts,Massachusetts,,
+390,STT,10035.0,12,"8,57E+08","State Street Corp, Investors Financial Services",2008,2008,2008-05-29,1,M&A,45500,STAT,Massachusetts,Massachusetts,0.4268916068811521,0.5166171078532285
+391,T,9899.0,12,00206R102,AT&T,2008,2008,2008-05-22,1,Other,0,PORT,Texas,Texas,0.1703653461073993,0.14593167597026876
+392,SRCE,15199.0,12,"3,37E+08",1st Source Bank,2008,2008,2008-06-10,1,Investigation,0,HACK,Indiana,Indiana,0.3841126560011873,0.5342392355201467
+393,DRIV,113362.0,12,25388B104,Digital River Inc.,2010,2010,2010-06-04,1,Other,200000,HACK,Minnesota,Minnesota,,
+394,AET,1177.0,12,00817Y108,Aetna,2010,2010,2010-05-28,1,Earnings,6372,PHYS,Connecticut,Connecticut,0.4093217932540014,0.5924991776893292
+395,BMY,2403.0,12,"1,10E+08",Bristol-Myers Squibb,2008,2008,2008-07-17,1,Earnings,42000,PORT,Florida,New York,0.3414864351170041,0.28108233087962387
+396,CHTR,126136.0,12,16117M305,Charter Communications,2008,2008,2008-08-13,1,Earnings,9000,PORT,South Carolina,Missouri,,
+397,WFC,8007.0,12,"9,50E+08",Wachovia Bank,2008,2008,2008-08-29,1,Investigation,0,CARD,Florida,California,0.5988646455877952,0.6465084770565536
+398,ESRX,25356.0,12,30219G108,Express Scripts,2008,2008,2008-11-06,1,Earnings,700000,UNKN,Missouri,Missouri,0.7984701282501594,0.7966804679304712
+399,SBUX,25434.0,12,"8,55E+08",Starbucks Corp.,2008,2008,2008-11-24,1,Earnings,97000,PORT,Washington,Washington,0.1564966855575839,0.2129672836749217
+400,LNC,6742.0,12,"5,34E+08",Lincoln Financial Group,2010,2010,2010-05-25,1,Other,1286,DISC,Pennsylvania,Pennsylvania,0.7268536963714672,0.7871042676174275
+401,PHM,8823.0,12,"7,46E+08",Pulte Homes Las Vegas Division,2008,2008,2008-12-25,1,Earnings,16000,PHYS,Nevada,Nevada,0.1227428089822206,0.34576768040285466
+402,WFC,8007.0,12,"9,50E+08",Wells Fargo,2010,2010,2010-05-25,1,Other,1023,INSD,California,California,0.3905617175443171,0.5847057779162096
+403,INOD,28717.0,12,"4,58E+08","Innodata Isogen, Inc.",2009,2009,2009-01-13,1,Earnings,0,PORT,New Jersey,New Jersey,0.145688053009533,0.13666665965950592
+404,OXY,8068.0,12,"6,75E+08",Occidental Petroleum Corporation,2009,2009,2009-01-14,1,Earnings,0,INSD,Texas,Texas,0.7280777143685011,1.5810950345660304
+405,HPY,161040.0,12,42235N108,Heartland Payment Systems,2009,2009,2009-01-20,1,Earnings,"1,30E+08",HACK,New Jersey,New Jersey,,
+406,SYMC,15855.0,12,"8,72E+08",Symantec,2009,2009,2009-03-31,1,Earnings,200,INSD,California,California,,
+407,AV,15545.0,12,05382A104,Aviva,2009,2009,2009-06-03,1,M&A,550,HACK,New Hampshire,London,,
+408,AMR,1388.0,12,23771009,AMR Corporation,2010,2010,2010-07-02,1,Earnings,79000,STAT,Texas,Texas,,
+409,NTY,7798.0,9,46299A001,NBTY,2010,2010,2010-07-15,1,M&A,0,DISC,New York,New York,,
+410,LNC,6742.0,12,"5,34E+08",Lincoln National Life Insurance,2010,2010,2010-07-21,1,Other,26840,DISC,Pennsylvania,Pennsylvania,0.5433103816520057,0.5572473840811616
+411,RAD,9155.0,2,"7,68E+08",Rite Aid Corporation,2009,2010,2010-07-27,1,Other,0,PHYS,Pennsylvania,Pennsylvania,,
+412,HUM,27914.0,12,"4,45E+08","Humana Inc, Matrix Imaging",2010,2010,2010-08-18,1,Earnings,2631,PHYS,Kentucky,Kentucky,0.5908023801273782,0.6097720460012841
+413,HSB,137135.0,12,40427H509,HSBC Bank Nevada,2010,2010,2010-08-09,1,Investigation,14,UNKN,New York,New York,,
+414,JLL,65108.0,12,48020Q107,Jones Lang LaSalle,2010,2010,2010-08-09,1,M&A,20,PORT,Illinois,Illinois,2.103425668585071,2.0974835310812523
+415,S,10984.0,12,85207U105,Sprint,2010,2010,2010-09-02,1,Other,0,INSD,Kansas,Kansas,,
+416,CAKE,25737.0,12,"1,63E+08",Cheesecake Factory,2010,2010,2010-09-11,1,Earnings,0,INSD,New York,California,0.3375616617247719,0.34958702040771633
+417,CAKE,25737.0,12,"1,63E+08","Cheesecake Factory, PGA Tour Grill, Outback Steakhouse",2010,2010,2010-09-29,1,Earnings,0,INSD,District Of Columbia,California,0.103174494688176,0.46214859026735444
+418,JPM,2968.0,12,46625H100,JP Morgan Chase Bank,2010,2010,2010-09-14,1,Earnings,0,CARD,New York,New York,0.1156586463944838,0.6665154213683806
+419,SEAC,63938.0,1,"8,12E+08",SeaChange International,2009,2010,2010-09-08,1,Earnings,1,INSD,Massachusetts,Massachusetts,0.7549806813904976,11.470590658562505
+420,RY,15633.0,10,"7,80E+08",RBC Bank,2010,2010,2010-10-14,1,Other,0,INSD,Florida,Florida,0.200570181077423,0.30616457140027536
+421,MAR,28930.0,12,"5,72E+08",Marriott International Inc.,2005,2005,2005-12-28,1,M&A,206000,PORT,Florida,Maryland,0.1417212837359904,0.1468087356287349
+422,FHN,4737.0,12,"3,21E+08",First Horizon Home Loans,2006,2006,2006-03-06,1,Earnings,8,STAT,Oregon,Tennessee,0.0532118766289759,0.20378432636624383
+423,AFL,1449.0,12,1055102,Aflac,2006,2006,2006-04-19,1,Earnings,0,PORT,Georgia,Georgia,0.1106271188456973,0.1357256504210295
+424,SHLD,6307.0,1,"8,12E+08","Sears, Roebuck, Company Contractor Compliance",2005,2006,2006-04-28,1,Earnings,196,DISC,Florida,Illinois,,
+425,ARMK,186858.0,9,03852U106,ARAMARK Corporation,2006,2006,2006-06-06,1,M&A,6028,PORT,Georgia,Pennsylvania,,
+426,GPI,65718.0,12,"3,99E+08","Group 1 Automotive Inc, Weinstein Spira & Company, P.C.",2006,2006,2006-07-19,1,Other,14000,PORT,Texas,Texas,0.9097848037370824,1.1024937884965422
+427,BEN,4885.0,9,"3,55E+08",Franklin Templeton Investments,2006,2006,2006-08-03,1,Earnings,9,PORT,California,California,0.1793886551353504,0.30919702437060165
+428,DIS,3980.0,9,"2,55E+08","Disney Worldwide Services, Inc.",2006,2006,2006-09-05,1,Earnings,23,PORT,California,California,0.1499215775893842,0.18961998314028844
+429,WAG,11264.0,8,"9,31E+08",Walgreens,2010,2010,2010-12-10,1,Other,0,HACK,Illinois,Illinois,,
+430,BA,2285.0,12,97023105,"Boeing, Co",2006,2006,2006-11-15,1,Earnings,762,PORT,Illinois,Illinois,1.2499450787786548,1.5375172037691902
+431,IR,5959.0,12,G47791101,Ingersoll Rand,2006,2006,2006-11-06,1,Earnings,1510,PORT,New Jersey,New York,,
+432,XRX,11636.0,12,"9,84E+08",Xerox,2007,2007,2007-01-23,1,Investigation,297,PORT,Oregon,Connecticut,0.3166103173426384,0.2935811195785531
+433,S,10984.0,12,85207U105,Sprint Nextel,2007,2007,2007-01-22,1,Earnings,1608,PORT,North Carolina,Kansas,,
+434,PSA,10096.0,12,74460D109,Public Storage Inc.,2007,2007,2007-01-29,1,Earnings,0,HACK,California,California,0.7643603310805901,1.3963247249877648
+435,GE,5047.0,12,"3,70E+08",General Electric,2007,2007,2007-02-09,1,M&A,80,PORT,Kentucky,New York,0.9623316196682676,0.9218443267897259
+436,HSIC,61494.0,12,"8,06E+08","Henry Schein, Financial Services, Inc., ChoiceHealth Leasing",2007,2007,2007-03-16,1,Earnings,340,PORT,Illinois,New York,0.2071269659427509,0.3427920466369044
+437,SDS,12144.0,12,"8,67E+08",Sungard,2007,2007,2007-03-20,1,Earnings,3560,PORT,Pennsylvania,Pennsylvania,76.01501351084748,111.03872323737623
+438,EDS,5074.0,12,"2,86E+08",Electronic Data Systems Corp. (EDS),2007,2007,2007-03-19,1,M&A,30,PORT,California,Texas,,
+439,WM,14477.0,12,94106L109,Waste Management Inc.,2007,2007,2007-04-03,1,Earnings,400,PORT,Texas,Texas,0.1215838228209148,0.16067179775935184
+440,HD,5680.0,1,"4,37E+08",Home Depot,2006,2007,2007-05-24,1,Earnings,204,PORT,Georgia,Georgia,0.1429226840022828,0.13979974798709177
+441,TXT,10519.0,12,"8,83E+08",Textron,2007,2007,2007-07-31,1,Earnings,500,PORT,Rhode Island,Rhode Island,0.8643334410336528,1.425439032449964
+442,FNFV,165264.0,12,31620R303,"Fidelity National Information Services, Fidelity National Financial",2007,2007,2007-09-24,1,M&A,111,PORT,Florida,Florida,,
+443,HMC,5691.0,12,"4,38E+08",American Honda Motor Company,2010,2010,2010-12-27,1,Earnings,4900000,HACK,California,California,0.0175147171620578,0.12929450832603293
+444,WMT,11259.0,1,"9,31E+08",Wal-Mart Stores Inc.,2006,2007,2007-09-28,1,Earnings,48686,INSD,Arkansas,Arkansas,0.0555687046342077,0.16633369030037035
+445,BLIAQ,3491.0,12,93676104,Blockbuster Inc.,2007,2007,2007-10-19,1,Earnings,0,PORT,Florida,Texas,0.0834167336520307,0.1177615665660009
+446,BGC,25405.0,12,"3,69E+08",General Cable Corporation,2007,2007,2007-11-19,1,Earnings,23,DISC,Texas,Kentucky,0.0266566965203774,0.047334109522912754
+447,PRU,143356.0,12,"7,44E+08",Prudential Financial,2007,2007,2007-11-30,1,M&A,44023,INSD,Pennsylvania,New Jersey,0.6662040521902733,1.356836369106573
+448,CHSCP,134464.0,8,12542R993,"CHS, Inc.",2010,2010,2010-12-31,1,Restatement,0,DISC,Minnesota,Minnesota,0.0174562190944675,0.03705650902570115
+449,SAIC,18683.0,1,"8,09E+08",SAIC,2007,2008,2008-01-18,1,M&A,0,HACK,Virginia,Virginia,,
+450,AMZN,64768.0,12,23135106,Amazon.com,2011,2011,2011-01-29,1,Earnings,0,DISC,Washington,Washington,0.3329008085966898,0.20575594310962378
+451,JACK,13092.0,12,"4,66E+08",Jack in the Box,2011,2011,2011-02-22,1,M&A,0,INSD,Texas,California,0.8197709684029765,0.8612654253847595
+452,CVS,7241.0,12,"1,27E+08",CVS Caremark Corp.,2011,2011,2011-03-09,1,Earnings,0,INSD,Rhode Island,Rhode Island,0.4043326360824594,0.363643481485904
+453,WAG,11264.0,8,"9,31E+08",Walgreens Co.,2011,2011,2011-03-11,1,M&A,0,INSD,Illinois,Illinois,,
+454,HIG,61739.0,12,"4,17E+08",Hartford Life Insurance Company,2011,2011,2011-04-06,1,Statement,300,HACK,Connecticut,Connecticut,0.2398842194315691,0.3060445781862228
+455,ABM,1410.0,10,957100,ABM Industries,2011,2011,2011-04-21,1,Earnings,91,STAT,Georgia,New York,0.0557979013446339,0.14774567408801054
+456,BLIAQ,3491.0,12,93676104,Blockbuster Inc.,2011,2011,2011-04-20,1,Earnings,0,PHYS,California,Texas,0.002267154656386,0.01134041499716904
+457,MCD,7154.0,12,"5,80E+08",McDonald's,2011,2011,2011-09-12,1,Earnings,0,INSD,Minnesota,Illinois,0.5113230340164603,1.0484468654715025
+458,FNFV,165264.0,12,31620R303,"Fidelity National Information Services, Inc. (FIS)",2011,2011,2011-08-26,1,Earnings,22,HACK,Florida,Florida,,
+459,LNC,6742.0,12,"5,34E+08","Lincoln Financial Group, Lincoln National Life Insurance Company, Lincoln Life and Annuity Company of New York",2011,2011,2011-08-23,1,Earnings,91763,DISC,New York,Pennsylvania,0.2634662468049291,0.8530470129049947
+460,WAG,11264.0,8,"9,31E+08",Walgreens.com,2011,2011,2011-07-13,1,Earnings,0,DISC,Illinois,Illinois,,
+461,VLY,11861.0,12,"9,20E+08",Valley National Bank,2011,2011,2011-05-27,1,Earnings,348,CARD,New York,New Jersey,0.0172130128933892,0.06936135393397423
+462,DPZ,160211.0,12,25754A201,"Domino's Pizza, KB Pizza",2011,2011,2011-05-12,1,Earnings,0,PHYS,Indiana,Michigan,0.4729101786891524,0.7537587541160052
+463,HBAN,5786.0,12,"4,46E+08",Huntington National Bank,2011,2011,2011-05-09,1,Other,2000,INSD,Illinois,Ohio,0.021476004255934,0.04948893159092509
+464,ADP,1891.0,6,53015103,"Automatic Data Processing (ADP), A.W. Hastings'",2011,2011,2011-12-28,1,Earnings,0,PORT,California,New Jersey,0.1976712789371199,0.21481175095289523
+465,VRSN,66368.0,12,9.23E+106,VeriSign Inc.,2012,2012,2012-02-02,1,Earnings,0,HACK,Virginia,Virginia,0.228974983017089,0.44773684643885286
+466,SYMC,15855.0,12,"8,72E+08","Symantec, ImageShack",2012,2012,2012-11-04,1,M&A,1000,HACK,California,California,,
+467,MSI,7585.0,12,"6,20E+08","Motorola Mobility, Inc.",2012,2012,2012-02-03,1,Statement,100,DISC,Illinois,Illinois,0.4376056669675545,0.5525462180273532
+468,WMT,11259.0,1,"9,31E+08",Sam's Club,2010,2011,2011-11-06,1,Earnings,98,INSD,Minnesota,Arkansas,0.2237216032839147,0.2565715566253461
+469,KO,3144.0,12,"1,91E+08",Coca-Cola Company Family Federal Credit Union,2012,2012,2012-02-22,1,Earnings,13800,PORT,Georgia,Georgia,0.0658745451663781,0.08507202064714041
+470,CVS,7241.0,12,"1,27E+08",CVS Caremark,2012,2012,2012-03-24,1,M&A,3482,DISC,Rhode Island,Rhode Island,0.2939421552252576,0.29553697859753925
+471,GPN,141913.0,5,37940X102,Global Payments Inc.,2011,2012,2012-03-30,1,Earnings,7000000,CARD,Georgia,Georgia,1.2683544623604317,1.6633195598574495
+472,PCG,8264.0,12,69331C108,Pacific Gas and Electric (PG&E),2012,2012,2012-03-07,1,Investigation,100,PHYS,California,California,0.3222016506811632,0.5126407282500509
+473,MCD,7154.0,12,"5,80E+08",McDonald's,2012,2012,2012-03-09,1,Earnings,282,INSD,Oklahoma,Illinois,1.3088244312911086,1.0785558218804943
+474,SHLD,6307.0,1,"8,12E+08",Sears Portrait Studio,2011,2012,2012-05-23,1,Earnings,0,PHYS,Ohio,Illinois,,
+475,GM,5073.0,12,37045V100,General Motors Co.,2012,2012,2012-08-03,1,Earnings,883,INSD,Michigan,Michigan,0.282395675974423,0.36661858443382955
+476,FRC,14275.0,12,33616C100,First Republic Bank,2012,2012,2012-08-14,1,Statement,0,PHYS,California,California,,
+477,VLY,11861.0,12,"9,20E+08","Valley National Bank, American Stock Transfer and Trust Company, LLC",2012,2012,2012-02-14,1,M&A,0,DISC,New York,New Jersey,0.1120331745698159,0.09322083164688247
+478,INTC,6008.0,12,"4,58E+08","Intel, Inc.",2012,2012,2012-02-10,1,Investigation,0,HACK,California,California,0.0768759336527926,0.06416799212836961
+479,LNC,6742.0,12,"5,34E+08","Lincoln Financial Securities Corporation, Red Boat Advisor Resources",2012,2012,2012-09-16,1,Earnings,4657,HACK,New Hampshire,Pennsylvania,0.1581460644834915,0.3415715239881659
+480,RAD,9155.0,2,"7,68E+08",Rite Aid Corporation,2011,2012,2012-09-27,1,Earnings,0,DISC,Pennsylvania,Pennsylvania,,
+481,EFX,4423.0,12,"2,94E+08",Equifax,2012,2012,2012-10-10,1,Earnings,17000,DISC,Georgia,Georgia,0.1729855072191443,0.5733552203563864
+482,WAG,11264.0,8,"9,31E+08",Walgreens,2012,2012,2012-12-13,1,M&A,0,PHYS,California,Illinois,,
+483,TWTR,18872.0,12,90184L102,Twitter,2013,2013,2013-02-02,1,Investigation,250000,HACK,California,California,,
+484,AAL,1045.0,12,02376R102,"US Airways, McKesson, City of Houston, Automatic Data Processing (ADP), AlliedBarton Security Services",2013,2013,2013-07-30,1,Earnings,4500,DISC,Arizona,Arizona,0.0832617367337707,0.39459878528829756
+485,AAL,1045.0,12,02376R102,US Airways Group,2013,2013,2013-08-08,1,Earnings,7700,HACK,Arizona,Arizona,0.1945096561300495,1.0885243594427674
+486,RSG,112168.0,12,"7,61E+08",Republic Services,2013,2013,2013-08-29,1,Statement,82160,PORT,Arizona,Arizona,0.3943361850229522,0.4874621325255319
+487,MUSA,18498.0,12,"6,27E+08",Murphy USA,2013,2013,2013-09-20,1,M&A,0,CARD,Arkansas,Arkansas,0.2242688859959638,0.26479316015040655
+488,WAG,11264.0,8,"9,31E+08",Walgreens,2013,2013,2013-10-07,1,Earnings,0,STAT,California,Illinois,,
+489,AAN,1076.0,12,2535300,Aaron's,2013,2013,2013-10-22,1,Earnings,0,DISC,Georgia,Georgia,,
+490,DNB,4094.0,12,2.65E+104,Dun & Bradstreet,2013,2013,2013-10-28,1,Earnings,0,HACK,Georgia,New Jersey,,
+491,CME,149070.0,12,12572Q105,"CME Group, CME ClearPort",2013,2013,2013-11-17,1,Investigation,0,HACK,Illinois,Illinois,0.6153917627518266,1.3431137454528304
+492,WAG,11264.0,8,"9,31E+08",Walgreens,2013,2013,2013-12-20,1,Earnings,0,INSD,Maryland,Illinois,,
+493,TMUS,17874.0,12,"8,73E+08",T-Mobile Supplier,2013,2013,2013-12-30,1,M&A,0,HACK,,Washington,0.2932385044162286,0.6371510743920202
+494,HD,5680.0,1,"4,37E+08",The Home Depot,2013,2014,2014-02-06,1,Other,30000,INSD,Georgia,Georgia,0.5306161213607024,0.6502111300518966
+495,DFS,177376.0,11,"2,55E+08",Discover Financial Services,2014,2014,2014-02-21,1,Statement,0,CARD,Utah,Illinois,0.2995778832347943,0.275681456424154
+496,AXP,1447.0,12,25816109,American Express,2014,2014,2014-03-25,1,Earnings,0,HACK,New York,New York,0.562270755848453,0.6174413603301101
+497,WAG,11264.0,8,"9,31E+08",Walgreens,2014,2014,2014-06-07,1,Earnings,0,INSD,Georgia,Illinois,,
+498,D,4029.0,12,25746U109,Dominion Resources Inc.,2014,2014,2014-07-21,1,Earnings,1700,HACK,Virginia,Virginia,0.0831743172351455,0.3137457560439331
+499,CVS,7241.0,12,"1,27E+08",CVS/Caremark,2014,2014,2014-07-30,1,Earnings,350,DISC,Georgia,Rhode Island,0.6895793570684379,0.7154725087529299
+500,MEET,121662.0,12,"5,85E+08","MeetMe, Inc.",2014,2014,2014-08-18,1,Restatement,0,HACK,Pennsylvania,Pennsylvania,,
+501,ANTM,145046.0,12,36752103,Anthem Blue Cross,2014,2014,2014-11-10,1,Investigation,0,DISC,California,California,,
+502,SNE,9818.0,12,"8,36E+08",Sony PlayStation,2014,2014,2014-12-26,1,Other,0,HACK,New York,New York,,
+503,NVDA,117768.0,1,67066G104,NVIDIA Corporation,2014,2015,2015-01-06,1,Earnings,0,HACK,California,California,0.0918665832122124,0.09822399685178256
+504,KODK,4194.0,12,"2,77E+08",Eastman Kodak,2005,2005,2005-06-22,0,none,5800,PORT,New York,New York,,
+505,LFG,24503.0,12,"5,15E+08","LandAmerica Credit Services, Inc., Diversified Capital",2006,2006,2006-09-01,0,none,124,HACK,California,Virginia,,
+506,SBUX,25434.0,12,"8,55E+08",Starbucks Corp.,2006,2006,2006-11-03,0,none,60080,PORT,Washington,Washington,0.2235559581273573,0.19830567206363786
